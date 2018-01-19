@@ -1,0 +1,111 @@
+crDroid Android
+===============
+Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdroid/blob/8.1/README.mkdn)__
+
+
+crDroid Android Features
+===============
+(as on 19th Jan, 2018)
+
+General
+----------
+* Android 8.1.0_r4
+* crDroid Music - Music player based on Phonograph
+* crDroid File Manager - File manager based on Amaze File manager
+* crDroid Home - Revamped and customized launcher with Google now integration
+* crDroid Settings - Our own chamber of secrets with below customization settings
+
+Status Bar
+----------
+* Network Traffic customizations
+* Data activity toggles
+* BT battery toggle
+* Battery Bar customizations
+* Tap to sleep toggle
+* Brightness gesture control
+* Quick Pulldown customizations
+* Smart Pulldown customizations
+* Ticker customizations
+
+Quick Settings
+----------
+* BT battery toggle
+* Weather tile customizations
+* Quick scroller for small QS tiles
+* Rows/columns configuration
+* Brightness slider configuration
+* Vibrate on touch toggle
+* Additional tiles: Sync, Caffeine, Ambient notifications, Sound, Volume, Compass, USB Tethering, Music, Expanded Desktop, PIP, Weather
+
+Lock Screen
+----------
+* Visualization toggle
+* Media cover art toggle
+* Battery info toggle
+* Tap to sleep toggle
+* Notifications customizations
+* Toggle to access power menu and quick settings on secured lock screen
+* Fingerprint authentication vibration toggle
+
+Recents Screen
+----------
+* Icon pack support
+* Immersive recents toggle
+* Memory bar toggle
+* Clear All FAB button customizations
+* Misc buttons toggle
+* Deep clear
+* Slim recents customizations
+
+Navigation
+----------
+* Navigation bar toggle
+* Stock navbar customizations
+* DUI Smartbar customizations
+* DUI Fling customizations
+* Navbar height customizations
+* Dynamic Navbar toggle
+* Pulse customizations - Music visualization for smart bar
+
+Buttons
+----------
+* Disable navigation HW keys
+* Accidental touch prevention for navigation HW keys
+* HW button mapping
+* End call with power button
+* Long press power button for torch
+* Kill app with back button
+* Wake device with HW non-capacitive button
+* Control playback with volume buttons
+* Keyboard cursor control with volume buttons
+* Swap volume keys on orientation change
+* Additional button settings for device specific customization
+
+Recents Screen
+----------
+* Expanded Desktop customizations
+
+Notifications
+----------
+* Power notification controls
+* Force expanded notifications toggle
+
+Sound
+----------
+* Live volume steps customization
+
+Misc
+----------
+* Ad Away
+* Show CPU info overlay
+* Media Scanner boot behavior customization
+* Auto USB mode chooser customization
+* Three finger swipe for screenshot toggle
+
+
+LineageOS Additional Features
+----------
+* Burnt-in protection
+* Livedisplay support
+* Increasing ringtone feature
+* Unlinked notification sound
