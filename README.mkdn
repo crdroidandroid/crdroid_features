@@ -10,13 +10,17 @@ crDroid Android Features
 General
 ----------
 * Android 8.1.0_r4
+* Pixel look and feel
 * crDroid Music - Music player based on Phonograph
 * crDroid File Manager - File manager based on Amaze File manager
 * crDroid Home - Revamped and customized launcher with Google now integration
 * crDroid Settings - Our own chamber of secrets with below customization settings
+* OTA notification for officially supported devices
+* ART and BIONIC optimizations
 
 Status Bar
 ----------
+* Status Bar icons toggle
 * Network Traffic customizations
 * Data activity toggles
 * BT battery toggle
@@ -81,7 +85,7 @@ Buttons
 * Swap volume keys on orientation change
 * Additional button settings for device specific customization
 
-Recents Screen
+Display
 ----------
 * Expanded Desktop customizations
 
@@ -101,7 +105,6 @@ Misc
 * Media Scanner boot behavior customization
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
-
 
 LineageOS Additional Features
 ----------
