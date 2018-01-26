@@ -1,0 +1,59 @@
+<!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
+
+[center]
+crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today. We're mainly based on LineageOS so use custom kernels compatible with them!
+
+[IMG]http://i.imgur.com/BE3pE0l.png[/IMG][/center]
+
+[B][U]Features[/U][/B]
+[URL="https://github.com/crdroid-devices/crdroid_features/blob/8.1/README.mkdn"]Click for feature list[/URL] (helps shorten the OP.)
+
+
+[B][I][U]Always Have a full functional Backup. Just in case![/U][/I][/B]
+
+
+[URL="ENTER-ROM-DOWNLOAD-LINK"]DOWNLOAD ROM[/URL]
+
+
+<--Use this line only if your phone requires a vendor image--> Vendor image for current build - ENTER-MONTH/NAME-OF-IMAGE vendor image - [URL="ENTER-VENDOR-DOWNLOAD-LINK"]DOWNLOAD VENDOR[/URL] 
+
+GAPPS: [URL="ENTER-GAPPS-DOWNLOAD-LINK(USUALLY-OPENGAPPS)"]DOWNLOAD GAPPS[/URL] 
+
+[B]First time installing crDroid to your ENTER-PHONE-NAME, or coming from another ROM:[/B]  <--THESE MAY NEED UPDATING FOR YOUR PARTICULAR DEVICE; BE THOROUGH IN INSTRUCTIONS-->
+
+** Make sure you're running a proper working Recovery (CWM or TWRP)
+1) Copy crDroid zip, gapps zip <--& vendor img, if applicable--> to your device
+2) Boot into Recovery
+3) Wipe cache, system, & data (or just cache & system for a dirty flash).
+4) Flash ROM
+8) Flash gapps
+9) Boot up
+
+For root, AFTER you boot into the ROM, you can go back to recovery and install Magisk XX.x (whatever is most recent). 
+
+[B]Upgrading from earlier version of crDroid:[/B]
+The only difference between clean flash as above and upgrading is you just wipe system & cache, leaving data. Everything else is the same. ***Remember to always clean flash before reporting problems. Clean flashing is always the best method of ROM install. 
+
+[B][U]KNOWN ISSUES[/U][/B]
+LIST-KNOWN-ISSUES-ON-YOUR-DEVICE-HERE
+
+Don't expect any support if you:
+- are not running the included kernel
+- have installed any mods such as Xposed!
+- have modified system files
+
+Thanks to:
+
+- ENTER-SPECIFIC-THANKS-HERE-IF-YOU-HAVE-THEM
+- Google
+- LineageOS
+- SlimRoms
+- AOSPA (Paranoid Android)
+- OmniRom
+- NamelessROM
+- Many others... (if you're feeling upset being out of the thanks list just send a PM ) 
+[center]
+[URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4ZFWHZX6HCSAQ"]DONATE[/URL]
+
+[URL="https://plus.google.com/communities/118297646046960923906"]crDroid G+ community[/URL]
+[/center]
