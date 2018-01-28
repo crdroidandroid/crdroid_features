@@ -5,7 +5,8 @@ Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdr
 
 crDroid Android Features
 ===============
-(as on 19th Jan, 2018)
+* Below features are as of 28th Jan, 2018 in the crDroidAndroid source.
+* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
 ----------
@@ -22,9 +23,11 @@ Status Bar
 ----------
 * Status Bar icons toggle
 * Network Traffic customizations
+* Customization for weather info in statusbar
 * Data activity toggles
 * BT battery toggle
 * Battery Bar customizations
+* Custom logo customizations
 * Tap to sleep toggle
 * Brightness gesture control
 * Quick Pulldown customizations
@@ -43,6 +46,7 @@ Quick Settings
 
 Lock Screen
 ----------
+* Customization for weather on lockscreen
 * Visualization toggle
 * Media cover art toggle
 * Battery info toggle
@@ -74,8 +78,11 @@ Navigation
 Buttons
 ----------
 * Disable navigation HW keys
+* Backlight toggle and timeout settings
 * Accidental touch prevention for navigation HW keys
 * HW button mapping
+* Advanced reboot toggle
+* Power menu customizations
 * End call with power button
 * Long press power button for torch
 * Kill app with back button
@@ -85,14 +92,16 @@ Buttons
 * Swap volume keys on orientation change
 * Additional button settings for device specific customization
 
-Display
+User Interface
 ----------
 * Expanded Desktop customizations
+* System-wide animations customizations
 
 Notifications
 ----------
 * Power notification controls
 * Force expanded notifications toggle
+* LED customizations for notifications and battery
 
 Sound
 ----------
@@ -101,6 +110,7 @@ Sound
 Misc
 ----------
 * Ad Away
+* Pocket detection - prevents device interaction when inside pocket
 * Show CPU info overlay
 * Media Scanner boot behavior customization
 * Auto USB mode chooser customization
