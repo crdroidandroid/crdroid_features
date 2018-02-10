@@ -5,12 +5,12 @@ Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdr
 
 crDroid Android Features
 ===============
-* Below features are as of 28th Jan, 2018 in the crDroidAndroid source.
+* Below features are as of nd Feb, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
 ----------
-* Android 8.1.0_r4
+* Android 8.1.0_r11
 * Pixel look and feel
 * crDroid Music - Music player based on Phonograph
 * crDroid File Manager - File manager based on Amaze File manager
@@ -22,9 +22,12 @@ General
 Status Bar
 ----------
 * Status Bar icons toggle
+* Clock & date customizations
+* Carrier label customizations
 * Network Traffic customizations
 * Customization for weather info in statusbar
 * Data activity toggles
+* Battery image and percentage toggle
 * BT battery toggle
 * Battery Bar customizations
 * Custom logo customizations
@@ -36,6 +39,7 @@ Status Bar
 
 Quick Settings
 ----------
+* Custom header customizations
 * BT battery toggle
 * Weather tile customizations
 * Quick scroller for small QS tiles
@@ -50,6 +54,7 @@ Lock Screen
 * Visualization toggle
 * Media cover art toggle
 * Battery info toggle
+* Face auto unlock for recognized trusted faces
 * Tap to sleep toggle
 * Notifications customizations
 * Toggle to access power menu and quick settings on secured lock screen
@@ -95,6 +100,7 @@ Buttons
 User Interface
 ----------
 * Expanded Desktop customizations
+* Ambient music ticker customizations
 * System-wide animations customizations
 
 Notifications
@@ -105,12 +111,15 @@ Notifications
 
 Sound
 ----------
+* Suppress notification sound when no media is playing and/or screen is on
+* Screenshot sound toggle
 * Live volume steps customization
 
 Misc
 ----------
 * Ad Away
 * Pocket detection - prevents device interaction when inside pocket
+* Suspend actions
 * Show CPU info overlay
 * Media Scanner boot behavior customization
 * Auto USB mode chooser customization
@@ -120,5 +129,6 @@ LineageOS Additional Features
 ----------
 * Burnt-in protection
 * Livedisplay support
+* Privacy guard with native superuser
 * Increasing ringtone feature
 * Unlinked notification sound
