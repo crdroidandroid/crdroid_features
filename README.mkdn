@@ -5,7 +5,7 @@ Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdr
 
 crDroid Android Features
 ===============
-* Below features are as of nd Feb, 2018 in the crDroidAndroid source.
+* Below features are as of 10th Feb, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
