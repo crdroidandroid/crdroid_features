@@ -46,7 +46,8 @@ Quick Settings
 * Rows/columns configuration
 * Brightness slider configuration
 * Vibrate on touch toggle
-* Additional tiles: Sync, Caffeine, Ambient notifications, Sound, Volume, Compass, USB Tethering, Music, Expanded Desktop, PIP, Weather
+* Additional tiles: Sync, Caffeine, Ambient notifications, Sound, Volume, Compass,
+  USB Tethering, Music, Expanded Desktop, PIP, Weather, Reboot/Recovery
 
 Lock Screen
 ----------
