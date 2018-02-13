@@ -3,17 +3,15 @@ crDroid Android
 Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdroid/blob/8.1/README.mkdn)__
 
 Translations
-===============
-[crDroid Settings](https://crowdin.com/project/crdroid-translation) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-translation/localized.svg)](https://crowdin.com/project/crdroid-translation)
-
-[Settings app](https://crowdin.com/project/crdroid-settings-app) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-settings-app/localized.svg)](https://crowdin.com/project/crdroid-settings-app)
-
-[Frameworks base](https://crowdin.com/project/crdroid-frameworks-base) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-frameworks-base/localized.svg)](https://crowdin.com/project/crdroid-frameworks-base)
-
+----------
+You can contribute to the ROM by submitting translations with few easy clicks below:
+* [crDroid Settings](https://crowdin.com/project/crdroid-translation) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-translation/localized.svg)](https://crowdin.com/project/crdroid-translation)
+* [Settings app](https://crowdin.com/project/crdroid-settings-app) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-settings-app/localized.svg)](https://crowdin.com/project/crdroid-settings-app)
+* [Frameworks base](https://crowdin.com/project/crdroid-frameworks-base) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-frameworks-base/localized.svg)](https://crowdin.com/project/crdroid-frameworks-base)
 
 crDroid Android Features
 ===============
-* Below features are as of 10th Feb, 2018 in the crDroidAndroid source.
+* Below features are as of 13th Feb, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
@@ -108,6 +106,7 @@ Buttons
 
 User Interface
 ----------
+* Color styles - switching between light dark and accent themes
 * Expanded Desktop customizations
 * Ambient music ticker customizations
 * System-wide animations customizations
