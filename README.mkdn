@@ -9,7 +9,6 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 | Project name | Translation status | Translation link |
 |    :---:     |     :---:      |     :---:     |
 | crDroid Settings   | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-translation/localized.svg)](https://crowdin.com/project/crdroid-translation)     | [help translate](https://crowdin.com/project/crdroid-translation)    |
-| Settings app     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-settings-app/localized.svg)](https://crowdin.com/project/crdroid-settings-app)       | [help translate](https://crowdin.com/project/crdroid-settings-app)      |
 | Frameworks base     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-frameworks-base/localized.svg)](https://crowdin.com/project/crdroid-frameworks-base)       | [help translate](https://crowdin.com/project/crdroid-frameworks-base)      |
 
 crDroid Android Features
