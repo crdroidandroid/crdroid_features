@@ -1,6 +1,5 @@
 crDroid Android
 ===============
-Read more - __[Click Here](https://github.com/crdroidandroid/android_vendor_crdroid/blob/8.1/README.mkdn)__
 
 Translations
 ----------
