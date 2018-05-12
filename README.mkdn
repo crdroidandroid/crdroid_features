@@ -13,12 +13,12 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 crDroid Android Features
 ===============
-* Below features are as of 13th Feb, 2018 in the crDroidAndroid source.
+* Below features are as of 12 May, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 General
 ----------
-* Android 8.1.0_r11
+* Android 8.1.0_r26
 * Pixel look and feel
 * crDroid Music - Music player based on Phonograph
 * crDroid File Manager - File manager based on Amaze File manager
@@ -29,7 +29,7 @@ General
 
 Status Bar
 ----------
-* Status Bar icons toggle
+* Status Bar icons toggle (including NFC and Roaming icon toggles)
 * Clock & date customizations
 * Carrier label customizations
 * Network Traffic customizations
@@ -108,10 +108,18 @@ Buttons
 
 User Interface
 ----------
-* Color styles - switching between light dark and accent themes
-* Expanded Desktop customizations
+* Ambient display customizations
 * Ambient music ticker customizations
-* System-wide animations customizations
+* Color styles - switching between light dark and accent themes
+* Font customizations
+* Expanded Desktop customizations
+* Gesture settings
+* Swipe notifications with back-mounted FP sensor
+* Screen off animations
+* Custom animations for system, toast, QS tiles, list view
+* Android P animation toggle
+* Toggle to disable animations
+* Scrolling cache toggle
 
 Notifications
 ----------
@@ -130,10 +138,14 @@ Misc
 * Ad Away
 * Pocket detection - prevents device interaction when inside pocket
 * Suspend actions
+* Wakelock blocker
+* Alarm blocker
 * Show CPU info overlay
 * Media Scanner boot behavior customization
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
+* Partial screenshot via volume key toggle
+* Toast icon toggle
 
 LineageOS Additional Features
 ----------
@@ -142,3 +154,4 @@ LineageOS Additional Features
 * Privacy guard with native superuser
 * Increasing ringtone feature
 * Unlinked notification sound
+* Per app data / wifi toggle
