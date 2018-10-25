@@ -1,5 +1,8 @@
-crDroid Android
-===============
+![alt text][logo]
+
+  [logo]:https://crdroid.net/images/logo.png ""
+* Below features are as of 25 Oct, 2018 in the crDroidAndroid source.
+* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
 ----------
@@ -11,21 +14,16 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 | Frameworks base     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-frameworks-base/localized.svg)](https://crowdin.com/project/crdroid-frameworks-base)       | [help translate](https://crowdin.com/project/crdroid-frameworks-base)      |
 | crDroid Home     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-home/localized.svg)](https://crowdin.com/project/crdroid-home)       | [help translate](https://crowdin.com/project/crdroid-home)      |
 
-crDroid Android Features
-===============
-* Below features are as of 12 May, 2018 in the crDroidAndroid source.
-* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
-
 General
 ----------
-* Android 8.1.0_r26
+* Android 9.0.0 r10
 * Pixel look and feel
-* crDroid Music - Music player based on Phonograph
-* crDroid File Manager - File manager based on Amaze File manager
-* crDroid Home - Revamped and customized launcher with Google now integration
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
-* ART and BIONIC optimizations
+<!--* crDroid Music - Music player based on Phonograph -->
+<!--* crDroid File Manager - File manager based on Amaze File manager -->
+<!--* crDroid Home - Revamped and customized launcher with Google now integration -->
+<!--* ART and BIONIC optimizations -->
 
 Status Bar
 ----------
@@ -33,43 +31,51 @@ Status Bar
 * Clock & date customizations
 * Carrier label customizations
 * Network Traffic customizations
-* Customization for weather info in statusbar
 * Data activity toggles
-* Battery image and percentage toggle
 * BT battery toggle
-* Battery Bar customizations
+* Battery style and percentage toggle
 * Custom logo customizations
 * Tap to sleep toggle
-* Brightness gesture control
 * Quick Pulldown customizations
 * Smart Pulldown customizations
+<!--
 * Ticker customizations
+* Customization for weather info in statusbar 
+* Battery Bar customizations
+* Brightness gesture control
+-->
 
 Quick Settings
 ----------
+* BT battery status
+* Title title
+* Vibrate on touch toggle
+* Brightness slider configuration
+* Auto brightness
+* Rows/columns configuration
+<!--
+* Additional tiles: Sync, Caffeine, Ambient notifications, Always On display, Sound, Volume, Compass,
+  USB Tethering, Music, Expanded Desktop, PIP, Weather, Reboot/Recovery/Power Off, HW keys 
 * Custom header customizations
-* BT battery toggle
 * Weather tile customizations
 * Quick scroller for small QS tiles
-* Rows/columns configuration
-* Brightness slider configuration
-* Vibrate on touch toggle
-* Additional tiles: Sync, Caffeine, Ambient notifications, Always On display, Sound, Volume, Compass,
-  USB Tethering, Music, Expanded Desktop, PIP, Weather, Reboot/Recovery/Power Off, HW keys
+-->
 
 Lock Screen
 ----------
-* Customization for weather on lockscreen
-* Visualization toggle
+* Music visualization toggle
 * Media cover art toggle
 * Battery info toggle
 * Face auto unlock for recognized trusted faces
 * Tap to sleep toggle
-* Notifications customizations
-* Toggle to access power menu and quick settings on secured lock screen
 * Fingerprint authentication vibration toggle
+* Power menu and quick settings on secured lock screen toggle
+<!--
+* Notifications customizations 
+* Customization for weather on lockscreen
+-->
 
-Recents Screen
+<!-- Recents Screen
 ----------
 * Icon pack support
 * Immersive recents toggle
@@ -77,77 +83,102 @@ Recents Screen
 * Clear All FAB button customizations
 * Misc buttons toggle
 * Deep clear
-* Slim recents customizations
+* Slim recents customizations -->
 
 Navigation
 ----------
 * Navigation bar toggle
+* Pixel animation
+* Carbon gestures 
+* Touchscreen gestures
+<!--
 * Stock navbar customizations
 * DUI Smartbar customizations
 * DUI Fling customizations
 * Navbar height customizations
 * Dynamic Navbar toggle
-* Pulse customizations - Music visualization for smart bar
+* Pulse customizations - Music visualization for smart bar 
+-->
 
 Buttons
 ----------
-* Disable navigation HW keys
-* Backlight toggle and timeout settings
-* Accidental touch prevention for navigation HW keys
-* HW button mapping
-* Advanced reboot toggle
+* Advanced restart toggle
 * Power menu customizations
 * End call with power button
 * Long press power button for torch
-* Kill app with back button
+* Automatically turn torch off
 * Wake device with HW non-capacitive button
+* Answer call with volume button
 * Control playback with volume buttons
 * Keyboard cursor control with volume buttons
-* Swap volume keys on orientation change
+* Reorient volume keys on rotation change
 * Additional button settings for device specific customization
+<!--
+* Disable navigation HW keys
+* Backlight toggle and timeout settings
+* Accidental touch prevention for navigation HW keys
+* HW button mapping 
+* Kill app with back button
+-->
 
 User Interface
 ----------
 * Ambient display customizations
+* Animation customization
+* Expanded Desktop customizations
+* Smart Pixels
+* Style set system colors
+<!--
 * Ambient music ticker customizations
 * Color styles - switching between light dark and accent themes
 * Font customizations
-* Expanded Desktop customizations
 * Gesture settings
 * Swipe notifications with back-mounted FP sensor
 * Screen off animations
 * Custom animations for system, toast, QS tiles, list view
 * Android P animation toggle
 * Toggle to disable animations
-* Scrolling cache toggle
+* Scrolling cache toggle 
+-->
 
 Notifications
 ----------
 * Power notification controls
 * Force expanded notifications toggle
 * LED customizations for notifications and battery
+* Heads up customizations
 
 Sound
 ----------
-* Suppress notification sound when no media is playing and/or screen is on
+* Charging sounds
 * Screenshot sound toggle
 * Live volume steps customization
+<!-- * Suppress notification sound when no media is playing and/or screen is on -->
 
 Misc
 ----------
 * Ad Away
-* Pocket detection - prevents device interaction when inside pocket
-* Suspend actions
 * Wakelock blocker
 * Alarm blocker
 * Show CPU info overlay
 * Media Scanner boot behavior customization
+* Toast icon toggle 
+* Pocket detection - prevents device interaction when inside pocket
+* Allow signature spoofing
+<!-- 
+* Suspend actions
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
 * Partial screenshot via volume key toggle
-* Toast icon toggle
+-->
 
-LineageOS Additional Features
+About crDroid
+----------
+* Current changelog
+* Telegram
+* Updates
+
+LineageOS Additional Features 
 ----------
 * Burnt-in protection
 * Livedisplay support
