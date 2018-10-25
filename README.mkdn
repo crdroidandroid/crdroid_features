@@ -53,15 +53,17 @@ Quick Settings
 
 Lock Screen
 ----------
-<!--* Customization for weather on lockscreen
 * Music visualization toggle
 * Media cover art toggle
 * Battery info toggle
 * Face auto unlock for recognized trusted faces
 * Tap to sleep toggle
 * Fingerprint authentication vibration toggle
-<!--* Notifications customizations -->
-* Toggle to access power menu and quick settings on secured lock screen
+* Power menu and quick settings on secured lock screen toggle
+<!--
+* Notifications customizations 
+* Customization for weather on lockscreen
+-->
 
 <!-- Recents Screen
 ----------
