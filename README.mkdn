@@ -1,5 +1,7 @@
-crDroid Android
-===============
+![alt text][logo]
+
+  [logo]:https://crdroid.net/images/logo.png "Logo Title Text 2"
+
 
 crDroid Android Features
 ===============
