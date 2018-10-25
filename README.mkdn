@@ -1,10 +1,6 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-
-
-crDroid Android Features
-===============
 * Below features are as of 25 Oct, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
