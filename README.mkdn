@@ -42,14 +42,14 @@ Quick Settings
 * Vibrate on touch toggle
 * Brightness slider configuration
 * Auto brightness
+* Rows/columns configuration
 <!--
 * Additional tiles: Sync, Caffeine, Ambient notifications, Always On display, Sound, Volume, Compass,
   USB Tethering, Music, Expanded Desktop, PIP, Weather, Reboot/Recovery/Power Off, HW keys 
 * Custom header customizations
+* Weather tile customizations
+* Quick scroller for small QS tiles
 -->
-<!--* Weather tile customizations-->
-<!--* Quick scroller for small QS tiles-->
-<!--* Rows/columns configuration-->
 
 Lock Screen
 ----------
