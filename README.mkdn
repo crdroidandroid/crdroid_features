@@ -4,6 +4,16 @@
 * Below features are as of 25 Oct, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
+Translations
+----------
+You can contribute to the ROM by submitting translations with few easy clicks below:
+
+| Project name | Translation status | Translation link |
+|    :---:     |     :---:      |     :---:     |
+| crDroid Settings   | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-translation/localized.svg)](https://crowdin.com/project/crdroid-translation)     | [help translate](https://crowdin.com/project/crdroid-translation)    |
+| Frameworks base     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-frameworks-base/localized.svg)](https://crowdin.com/project/crdroid-frameworks-base)       | [help translate](https://crowdin.com/project/crdroid-frameworks-base)      |
+| crDroid Home     | [![Crowdin](https://d322cqt584bo4o.cloudfront.net/crdroid-home/localized.svg)](https://crowdin.com/project/crdroid-home)       | [help translate](https://crowdin.com/project/crdroid-home)      |
+
 General
 ----------
 * Android 9.0.0 r10
