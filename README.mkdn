@@ -48,7 +48,7 @@ Status Bar
 Quick Settings
 ----------
 * BT battery status
-* Title title
+* Tile title
 * Vibrate on touch toggle
 * Brightness slider configuration
 * Auto brightness
@@ -89,8 +89,13 @@ Navigation
 ----------
 * Navigation bar toggle
 * Pixel animation
-* Carbon gestures 
-* Touchscreen gestures
+* Gestures
+  * Carbon gestures 
+  * Touchscreen gestures
+  * Swipe fingerprint settings
+  * Jump to camera
+  * Swipe up on home button
+  * Prevent ringing
 <!--
 * Stock navbar customizations
 * DUI Smartbar customizations
