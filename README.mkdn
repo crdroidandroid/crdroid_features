@@ -118,13 +118,12 @@ Buttons
 * Keyboard cursor control with volume buttons
 * Reorient volume keys on rotation change
 * Additional button settings for device specific customization
-<!--
-* Disable navigation HW keys
-* Backlight toggle and timeout settings
-* Accidental touch prevention for navigation HW keys
-* HW button mapping 
-* Kill app with back button
--->
+* Devices with HW keys
+  * Disable navigation HW keys
+  * Backlight toggle and timeout settings
+  * Accidental touch prevention for navigation HW keys
+  * HW button mapping 
+  * Kill app with back button
 
 User Interface
 ----------
