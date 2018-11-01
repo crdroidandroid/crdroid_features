@@ -34,6 +34,7 @@ Status Bar
 * Data activity toggles
 * BT battery toggle
 * Battery style and percentage toggle
+* Battery Bar customizations
 * Custom logo customizations
 * Tap to sleep toggle
 * Quick Pulldown customizations
@@ -41,7 +42,6 @@ Status Bar
 <!--
 * Ticker customizations
 * Customization for weather info in statusbar 
-* Battery Bar customizations
 * Brightness gesture control
 -->
 
