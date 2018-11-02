@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 25 Oct, 2018 in the crDroidAndroid source.
+* Below features are as of 01 Nov, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -34,6 +34,7 @@ Status Bar
 * Data activity toggles
 * BT battery toggle
 * Battery style and percentage toggle
+* Battery Bar customizations
 * Custom logo customizations
 * Tap to sleep toggle
 * Quick Pulldown customizations
@@ -41,7 +42,6 @@ Status Bar
 <!--
 * Ticker customizations
 * Customization for weather info in statusbar 
-* Battery Bar customizations
 * Brightness gesture control
 -->
 
