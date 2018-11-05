@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 01 Nov, 2018 in the crDroidAndroid source.
+* Below features are as of 05 Nov, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -92,6 +92,7 @@ Navigation
 * Gestures
   * Carbon gestures 
   * Touchscreen gestures
+  * OP swipe-up gestures 
   * Swipe fingerprint settings
   * Jump to camera
   * Swipe up on home button
@@ -109,6 +110,11 @@ Buttons
 ----------
 * Advanced restart toggle
 * Power menu customizations
+  * Screenshot
+  * On-The-Go mode
+  * Airplane mode
+  * User Switcher
+  * Lockdown
 * End call with power button
 * Long press power button for torch
 * Automatically turn torch off
@@ -168,7 +174,6 @@ Sound
 
 Misc
 ----------
-* Ad Away
 * Wakelock blocker
 * Alarm blocker
 * Show CPU info overlay
@@ -177,6 +182,7 @@ Misc
 * Pocket detection - prevents device interaction when inside pocket
 * Allow signature spoofing
 <!-- 
+* Ad Away
 * Suspend actions
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
