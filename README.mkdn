@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 05 Nov, 2018 in the crDroidAndroid source.
+* Below features are as of 09 Nov, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -75,15 +75,18 @@ Lock Screen
 * Customization for weather on lockscreen
 -->
 
-<!-- Recents Screen
+ Recents Screen
 ----------
+* Recents style
+<!--
 * Icon pack support
 * Immersive recents toggle
 * Memory bar toggle
 * Clear All FAB button customizations
 * Misc buttons toggle
 * Deep clear
-* Slim recents customizations -->
+* Slim recents customizations 
+-->
 
 Navigation
 ----------
@@ -150,18 +153,18 @@ User Interface
 <!--
 * Ambient music ticker customizations
 * Font customizations
-* Gesture settings
-* Swipe notifications with back-mounted FP sensor
 * Android P animation toggle
 * Toggle to disable animations
 -->
 
 Notifications
 ----------
-* Power notification controls
 * Force expanded notifications toggle
 * LED customizations for notifications and battery
 * Heads up customizations
+<!--
+* Power notification controls
+-->
 
 Sound
 ----------
@@ -174,6 +177,7 @@ Sound
 
 Misc
 ----------
+* Suspend actions
 * Wakelock blocker
 * Alarm blocker
 * Show CPU info overlay
@@ -183,7 +187,6 @@ Misc
 * Allow signature spoofing
 <!-- 
 * Ad Away
-* Suspend actions
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
 * Partial screenshot via volume key toggle
@@ -192,8 +195,15 @@ Misc
 About crDroid
 ----------
 * Current changelog
+* Translations
+* Share crDroid
+* Support us
+* Github
 * Telegram
 * Updates
+  * OTA
+  * Links
+* The drill
 
 LineageOS Additional Features 
 ----------
