@@ -20,10 +20,12 @@ General
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
-<!--* crDroid Music - Music player based on Phonograph -->
-<!--* crDroid File Manager - File manager based on Amaze File manager -->
-<!--* crDroid Home - Revamped and customized launcher with Google now integration -->
-<!--* ART and BIONIC optimizations -->
+* crDroid Music - Music player based on Phonograph
+* crDroid Home - Revamped and customized launcher with Google now integration 
+* ART and BIONIC optimizations 
+<!--
+* crDroid File Manager - File manager based on Amaze File manager
+-->
 
 Status Bar
 ----------
