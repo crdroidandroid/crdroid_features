@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 01 Nov, 2018 in the crDroidAndroid source.
+* Below features are as of 09 Nov, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -75,15 +75,18 @@ Lock Screen
 * Customization for weather on lockscreen
 -->
 
-<!-- Recents Screen
+ Recents Screen
 ----------
+* Recents style
+<!--
 * Icon pack support
 * Immersive recents toggle
 * Memory bar toggle
 * Clear All FAB button customizations
 * Misc buttons toggle
 * Deep clear
-* Slim recents customizations -->
+* Slim recents customizations 
+-->
 
 Navigation
 ----------
@@ -92,6 +95,7 @@ Navigation
 * Gestures
   * Carbon gestures 
   * Touchscreen gestures
+  * OP swipe-up gestures 
   * Swipe fingerprint settings
   * Jump to camera
   * Swipe up on home button
@@ -109,6 +113,11 @@ Buttons
 ----------
 * Advanced restart toggle
 * Power menu customizations
+  * Screenshot
+  * On-The-Go mode
+  * Airplane mode
+  * User Switcher
+  * Lockdown
 * End call with power button
 * Long press power button for torch
 * Automatically turn torch off
@@ -144,18 +153,18 @@ User Interface
 <!--
 * Ambient music ticker customizations
 * Font customizations
-* Gesture settings
-* Swipe notifications with back-mounted FP sensor
 * Android P animation toggle
 * Toggle to disable animations
 -->
 
 Notifications
 ----------
-* Power notification controls
 * Force expanded notifications toggle
 * LED customizations for notifications and battery
 * Heads up customizations
+<!--
+* Power notification controls
+-->
 
 Sound
 ----------
@@ -168,7 +177,7 @@ Sound
 
 Misc
 ----------
-* Ad Away
+* Suspend actions
 * Wakelock blocker
 * Alarm blocker
 * Show CPU info overlay
@@ -177,7 +186,7 @@ Misc
 * Pocket detection - prevents device interaction when inside pocket
 * Allow signature spoofing
 <!-- 
-* Suspend actions
+* Ad Away
 * Auto USB mode chooser customization
 * Three finger swipe for screenshot toggle
 * Partial screenshot via volume key toggle
@@ -186,8 +195,15 @@ Misc
 About crDroid
 ----------
 * Current changelog
+* Translations
+* Share crDroid
+* Support us
+* Github
 * Telegram
 * Updates
+  * OTA
+  * Links
+* The drill
 
 LineageOS Additional Features 
 ----------
