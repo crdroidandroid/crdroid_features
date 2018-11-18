@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 09 Nov, 2018 in the crDroidAndroid source.
+* Below features are as of 18 Nov, 2018 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -161,6 +161,7 @@ User Interface
 
 Notifications
 ----------
+* Blink flashlight on call
 * Force expanded notifications toggle
 * LED customizations for notifications and battery
 * Heads up customizations
