@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/images/logo.png ""
-* Below features are as of 18 Nov, 2018 in the crDroidAndroid source.
+* Below features are as of 12 Jan, 2019 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 9.0.0 r10
+* Android 9.0.0 r30
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -32,16 +32,18 @@ Status Bar
 * Status Bar icons toggle (including NFC and Roaming icon toggles)
 * Clock & date customizations
 * Carrier label customizations
-* Network Traffic customizations
-* Data activity toggles
-* BT battery toggle
-* Battery style and percentage toggle
-* Battery Bar customizations
+* Network Traffic monitor
+* 4G icon toggle
+* Roaming indicator toggle
+* BT battery status toggle
+* Battery style and percentage customizations
+* Battery bar customizations
 * Custom logo customizations
 * Tap to sleep toggle
-* Quick Pulldown customizations
-* Smart Pulldown customizations
+* Quick pulldown customizations
+* Smart pulldown customizations
 <!--
+* Data activity toggles
 * Ticker customizations
 * Customization for weather info in statusbar 
 * Brightness gesture control
@@ -51,7 +53,7 @@ Quick Settings
 ----------
 * BT battery status
 * Rows/columns configuration
-* Tile title
+* Tile title toggle
 * Vibrate on touch toggle
 * Brightness slider configuration
 * Auto brightness toggle
@@ -80,8 +82,8 @@ Lock Screen
  Recents Screen
 ----------
 * Recents style
-<!--
 * Icon pack support
+<!--
 * Immersive recents toggle
 * Memory bar toggle
 * Clear All FAB button customizations
@@ -92,43 +94,49 @@ Lock Screen
 
 Navigation
 ----------
-* Navigation bar toggle
-* Pixel animation
+* Interface
+  * Navigation bar toggle
+  * Navigation mode 
+  * Pulse customizations
+  * Stock navbar customizations
+  * Smartbar customizations 
+  * Fling customizations
+  * Navbar height customizations
 * Gestures
   * Carbon gestures 
+  * Swipe-up gestures
   * Touchscreen gestures
-  * OP swipe-up gestures 
-  * Swipe fingerprint settings
-  * Jump to camera
-  * Swipe up on home button
-  * Prevent ringing
+  * System gestures
+    * Swipe fingerprint settings
+    * Jump to camera
+    * Swipe up on home button
+    * Prevent ringing
 <!--
-* Stock navbar customizations
-* DUI Smartbar customizations
-* DUI Fling customizations
-* Navbar height customizations
 * Dynamic Navbar toggle
-* Pulse customizations - Music visualization for smart bar 
 -->
 
 Buttons
 ----------
-* Advanced restart toggle
-* Power menu customizations
-  * Screenshot
-  * On-The-Go mode
-  * Airplane mode
-  * User Switcher
-  * Lockdown
-* End call with power button
-* Long press power button for torch
-* Automatically turn torch off
-* Wake device with HW non-capacitive button
-* Answer call with volume button
-* Control playback with volume buttons
-* Keyboard cursor control with volume buttons
-* Reorient volume keys on rotation change
-* Additional button settings for device specific customization
+* Power button
+  * Advanced restart toggle
+  * Power menu customizations
+    * Screenshot
+    * On-The-Go mode
+    * Airplane mode
+    * User Switcher
+    * Lockdown
+  * End call with power button
+  * Long press power button for torch
+  * Automatically turn torch off
+* Volume buttons
+  * Wake device with HW non-capacitive button
+  * Answer call with volume button
+  * Control playback with volume buttons
+  * Keyboard cursor control with volume buttons
+  * Reorient volume keys on rotation change
+* Extras
+  * Additional buttons
+    * Customize notification slider use 
 * Devices with HW keys
   * Disable navigation HW keys
   * Backlight toggle and timeout settings
@@ -150,6 +158,8 @@ User Interface
   * Scrolling cache
   * Custom animations for system, toast, QS tiles and list view
 * Expanded Desktop customizations
+* Font
+* Round corners
 * Smart Pixels
 * Style set system colors
 <!--
@@ -174,6 +184,7 @@ Sound
 * Charging sounds
 * Screenshot sound toggle
 * Live volume steps customization
+* Volume Panel
 <!-- 
 * Suppress notification sound when no media is playing and/or screen is on 
 -->
