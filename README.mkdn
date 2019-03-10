@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 9.0.0 r31
+* Android 9.0.0 r34
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -26,11 +26,12 @@ General
 
 Status Bar
 ----------
-* Status Bar icons toggle (including NFC and Roaming icon toggles)
+* Status Bar icons toggle (including NFC)
 * Clock & date customizations
 * Carrier label customizations
 * Native superuser icon toggle
-* Network Traffic monitor
+* Network Traffic monitor and customizations
+* Old style mobile signal icons toggle
 * 4G icon toggle
 * Roaming indicator toggle
 * BT battery status toggle
@@ -51,7 +52,9 @@ Quick Settings
 * Brightness slider configuration
 * Clock in quick status bar header
 * Auto brightness toggle
-* VPN warning in footer of quick settings panel
+* VPN alert toggle in footer
+* Running services icon in footer
+* Footer icons visibility toggles
 
 Lock Screen
 ----------
