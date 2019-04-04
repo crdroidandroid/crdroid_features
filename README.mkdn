@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 10 Mar, 2019 in the crDroidAndroid source.
+* Below features are as of 4 Apr, 2019 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -27,10 +27,10 @@ General
 Status Bar
 ----------
 * Status Bar icons toggle (including NFC)
+* Clock style
 * Clock & date customizations
-* Carrier label customizations
-* Native superuser icon toggle
 * Network Traffic monitor and customizations
+* Native superuser icon toggle
 * Old style mobile signal icons toggle
 * 4G icon toggle
 * Roaming indicator toggle
@@ -53,11 +53,15 @@ Quick Settings
 * Clock in quick status bar header
 * Auto brightness toggle
 * VPN alert toggle in footer
+* User account icon toggle in footer
+* Edit tiles icon in footer
 * Running services icon in footer
-* Footer icons visibility toggles
+* crDroid Settings icon shortcut in footer 
 
 Lock Screen
 ----------
+* Clock font style
+* Date font style
 * Weather
 * Music visualization toggle
 * Media cover art toggle
