@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 4 Apr, 2019 in the crDroidAndroid source.
+* Below features are as of 18 Jun, 2019 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 9.0.0 r34
+* Android 9.0.0 r40
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -60,12 +60,15 @@ Quick Settings
 
 Lock Screen
 ----------
+* Shortcuts on bottom of screen
+* Clock style (including Android Q style)
 * Clock font style
 * Date font style
 * Weather
 * Music visualization toggle
 * Media cover art toggle
 * Battery info toggle
+* Charing animation toggle
 * Face auto unlock for recognized trusted faces
 * Tap to sleep toggle
 * Fingerprint authentication vibration toggle
@@ -143,16 +146,32 @@ User Interface
   * Scrolling cache
   * Custom animations for system, toast, QS tiles and list view
 * Blur
+* Display cutout (for notch devices)
+  * Cutout style
+  * Stock statusbar height toggle
+  * Force full screen apps 
 * Expanded Desktop customizations
 * Font
 * Round corners
 * Smart Pixels
-* Style set system colors
+* Style
+  * Accent color
+  * Style (light/dark)
+  * Dark mode
+  * Notification style
+  * Preference switch style
+  * Quick settings tile style
+  * Quick settings header style
 
 Notifications
 ----------
 * Blink flashlight on call
 * Force expanded notifications toggle
+* Noisy notifications toggle
+* In call vibration options
+  * Vibrate on connect
+  * Vibrate on call waiting
+  * Vibrate on disconnect
 * LED customizations for notifications and battery
 * Heads up customizations
 
@@ -162,6 +181,7 @@ Sound
 * Screenshot sound toggle
 * Live volume steps customization
 * Volume Panel
+* Less frequent notifications sounds
 
 Misc
 ----------
