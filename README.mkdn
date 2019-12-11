@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 25 Jul, 2019 in the crDroidAndroid source.
+* Below features are as of 11 Dec, 2019 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 9.0.0 r44
+* Android 10.0.0 r11
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -26,85 +26,54 @@ General
 
 Status Bar
 ----------
-* Status Bar icons toggle (including NFC)
-* Clock style
-* Clock & date customizations
-* Network Traffic monitor and customizations
-* Native superuser icon toggle
-* Old style mobile signal icons toggle
-* 4G icon toggle
-* Roaming indicator toggle
-* BT battery status toggle
-* VoLTE toggle
-* Battery style and percentage customizations
-* Battery bar customizations
-* Custom logo customizations
-* Tap to sleep toggle
-* Quick pulldown customizations
-* Smart pulldown customizations
+* Icons
+    * Status Bar icons toggle
+    * Clock style
+    * Clock & date customizations
+    * Network Traffic monitor and customizations
+    * Data disabled indicator
+    * 4G icon toggle
+    * Roaming indicator toggle
+    * BT battery status toggle
+    * VoLTE toggle
+* Battery customizations
+    * Battery style and percentage customizations
+    * Battery bar customizations
+* Gestures
+    * Tap to sleep toggle
+    * Brightness control
+    * Smart pulldown customizations
 
 Quick Settings
 ----------
-* BT battery status
-* Rows/columns configuration
-* Tile title toggle
-* Vibrate on touch toggle
-* Brightness slider configuration
-* Clock in quick status bar header
-* Auto brightness toggle
-* VPN alert toggle in footer
-* User account icon toggle in footer
-* Edit tiles icon in footer
-* Running services icon in footer
-* crDroid Settings icon shortcut in footer 
+* Tiles
+    * Tile title toggle
+    * Vibrate on touch toggle
+* Miscellaneous
+    * Battery percentage
+    * Clock in quick status bar header
+    * Birghtness slider
+    * Auto brightness toggle
 
 Lock Screen
 ----------
-* Shortcuts on bottom of screen
-* Clock style (including Android Q style)
-* Clock font style
-* Date font style
-* Weather
-* Music visualization toggle
-* Media cover art toggle
-* Battery info toggle
-* Charing animation toggle
-* Face auto unlock for recognized trusted faces
-* Tap to sleep toggle
-* Fingerprint authentication vibration toggle
-* Power menu and quick settings on secured lock screen toggle
-
- Recents Screen
-----------
-* Recents style (QuickStep or AOSP)
-* Icon pack support
-* Memory bar (for AOSP only)
-* Clear all recents (for AOSP only)
-* Clear all button location (for AOSP only)
+* Interface
+    * Media cover art toggle
+    * Media cover art filter
+    * Music visualizer
+    * Battery info toggle
+* Gestures
+    * Tap to sleep toggle
+    * Fingerprint authentication vibration toggle
+    * Fingerprint error vibration toggle
 
 Navigation
 ----------
 * Navigation bar toggle
-* Pie navigation
-* Interface
-  * Navigation mode 
-  * Pulse customizations
-  * Stock navbar customizations
-    * Swipe up on home button
-    * Pixel animation
-    * Show arrow keys while typing
-    * Navbar tuner
-  * Smartbar customizations 
-  * Fling customizations
-  * Navbar height customizations
+* Stock navbar settings
 * Gestures
-  * One handed mode
-  * Carbon gestures 
-  * Swipe-up gestures
-  * System gestures
-    * Swipe fingerprint settings
-    * Jump to camera
-    * Prevent ringing
+    * Touch screen gestures
+    * System gestures
 
 Buttons
 ----------
@@ -112,10 +81,10 @@ Buttons
   * Advanced restart toggle
   * Power menu customizations
     * Screenshot
-    * On-The-Go mode
     * Airplane mode
     * User Switcher
     * Lockdown
+    * Emergency
   * End call with power button
   * Long press power button for torch
   * Automatically turn torch off
@@ -125,82 +94,37 @@ Buttons
   * Control playback with volume buttons
   * Keyboard cursor control with volume buttons
   * Reorient volume keys on rotation change
-* Extras
-  * Additional buttons
-    * Customize notification slider use 
-* Devices with HW keys
-  * Disable navigation HW keys
-  * Backlight toggle and timeout settings
-  * Accidental touch prevention for navigation HW keys
-  * HW button mapping 
-  * Kill app with back button
 
 User Interface
 ----------
-* Ambient display
-  * Always on display
-  * New notifications wake screen
-  * Pulse notificaitons on tilt
-  * Pulse notifications on pickup
-  * Pulse notificaitons on handwave
-  * Pulse notifications on removal from pocket
+* Animations
+
 * Animation
-  * Screen off animation
-  * Scrolling cache
-  * Custom animations for system, toast, QS tiles and list view
-* Blur
-* Display cutout (for notch devices)
-  * Cutout style
-  * Stock statusbar height toggle
-  * Force full screen apps 
-* Expanded Desktop customizations
-* Font
-* Round corners
 * Smart Pixels
 * Style
-  * Accent color
-  * Style (light/dark)
-  * Dark mode
-  * Notification style
-  * Preference switch style
-  * Quick settings tile style
-  * Quick settings header style
-* Substratum (needs app installed)
-  * Themes
-  * Force authorize every theme app
 
 Notifications
 ----------
-* Ticker
-* Blink flashlight on call
-* Force expanded notifications toggle
-* Noisy notifications toggle
-* Less frequent notifications sounds
-* Heads up customizations
-* In call vibration options
-  * Vibrate on connect
-  * Vibrate on call waiting
-  * Vibrate on disconnect
-* LED customizations for notifications and battery
+* Heads up
+  * Heads up toggle
+  * Less boring toggle
+* Light brightness settings
+  * Battery light
+  * Notification light
 
 Sound
 ----------
 * Charging sounds
-* Launch music app on headset connect
 * Screenshot sound toggle
 * Live volume steps customization
 * Volume Panel
 
 Misc
 ----------
-* Aggressive battery
-* Suspend actions
-* Wakelock blocker
-* Alarm blocker
 * Show CPU info overlay
 * Gaming mode
 * Keyboard Settings
-* Media Scanner boot behavior customization
+* Swipe to screenshot
 * Toast icon toggle 
 * Pocket detection - prevents device interaction when inside pocket
 
@@ -213,16 +137,5 @@ About crDroid
 * Support us
 * Github
 * Telegram
-* Updates
-  * OTA
-  * Links
+* Updates (directly via OTA)
 * The drill
-
-LineageOS Additional Features 
-----------
-* Burnt-in protection
-* Livedisplay support
-* Privacy guard with native superuser
-* Increasing ringtone feature
-* Unlinked notification sound
-* Per app data / wifi toggle
