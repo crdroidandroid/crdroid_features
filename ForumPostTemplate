@@ -1,57 +1,56 @@
 <!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
 
-[center]
-crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today. We're mainly based on LineageOS so use custom kernels compatible with them!
+[CENTER][IMG]http://i.imgur.com/BE3pE0l.png[/IMG][/CENTER]
 
-[IMG]http://i.imgur.com/BE3pE0l.png[/IMG][/center]
+[CODE]*** Disclaimer
+I am not responsible for any damage you made to your device
+You have been warned[/CODE]
 
-[B][U]Features[/U][/B]
-[URL="https://github.com/crdroidandroid/crdroid_features/blob/9.0/README.mkdn"]Click for feature list[/URL] (helps shorten the OP.)
+[SIZE="4"]
+crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
+[/SIZE]
+
+[SIZE="5"]Features:[/SIZE]
+[URL="https://crdroid.net"]https://github.com/crdroidandroid/crdroid_features/blob/10.0/README.mkdn[/URL]
+
+[SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
+[HIDE]
+[SIZE="4"][B]Pre-installation:[/B][/SIZE]
+[LIST][*]TWRP ([URL="twrp link"]Download from here[/URL])
+[*]gapps ([URL="gapps link"]Download from here[/URL])
+[*]Magisk 20.0 or newer for root (after first boot) - ([URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Download from here[/URL])[/LIST]
+
+[SIZE="4"][B]First time installation:[/B][/SIZE]
+<!-- change according to your needs -->
+[LIST][*]step 1
+[*]step 2
+[*]step 3
+[*]step 4
+[*]step 5
+[/LIST]
+
+[SIZE="4"][B]Update installation:[/B][/SIZE]
+<!-- change according to your needs -->
+[LIST][*]step 1
+[*]step 2
+[*]step 3
+[*]step 4
+[*]step 5
+[/LIST]
+[/HIDE]
+
+[SIZE="5"]Sources:[/SIZE]
+[B]ROM:[/B] [URL="https://github.com/crdroidandroid"]https://github.com/crdroidandroid[/URL]
+[B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
+
+[SIZE="5"]Download:[/SIZE]
+[B]ROM[/B] [URL="https://crdroid.net/<device codename>"]https://crdroid.net/<device codename>[/URL] 
+[B]Changelog:[/B] [URL="https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/10.0/changelog_<device codename>.txt"]https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/10.0/changelog_<device codename>.txt[/URL]
+
+[SIZE="5"]Known issues:[/SIZE]
+<!-- list here -->
 
 
-[B][I][U]Always Have a full functional Backup. Just in case![/U][/I][/B]
-
-
-[URL="https://crdroid.net/<device codename>"]DOWNLOAD ROM[/URL]
-
-
-<--Use this line only if your phone requires a vendor image--> Vendor image for current build - ENTER-MONTH/NAME-OF-IMAGE vendor image - [URL="ENTER-VENDOR-DOWNLOAD-LINK"]DOWNLOAD VENDOR[/URL] 
-
-GAPPS: [URL="ENTER-GAPPS-DOWNLOAD-LINK(USUALLY-OPENGAPPS)"]DOWNLOAD GAPPS[/URL] 
-
-[B]First time installing crDroid to your ENTER-PHONE-NAME, or coming from another ROM:[/B]  <--THESE MAY NEED UPDATING FOR YOUR PARTICULAR DEVICE; BE THOROUGH IN INSTRUCTIONS-->
-
-** Make sure you're running a proper working Recovery (CWM or TWRP)
-1) Copy crDroid zip, gapps zip <--& vendor img, if applicable--> to your device
-2) Boot into Recovery
-3) Wipe cache, system, & data (or just cache & system for a dirty flash).
-4) Flash ROM
-8) Flash gapps
-9) Boot up
-
-For root, AFTER you boot into the ROM, you can go back to recovery and install Magisk XX.x (whatever is most recent). 
-
-[B]Upgrading from earlier version of crDroid:[/B]
-The only difference between clean flash as above and upgrading is you just wipe system & cache, leaving data. Everything else is the same. ***Remember to always clean flash before reporting problems. Clean flashing is always the best method of ROM install. 
-
-[B][U]KNOWN ISSUES[/U][/B]
-LIST-KNOWN-ISSUES-ON-YOUR-DEVICE-HERE
-
-Don't expect any support if you:
-- are not running the included kernel
-- have installed any mods such as Xposed!
-- have modified system files
-
-Thanks to:
-
-- ENTER-SPECIFIC-THANKS-HERE-IF-YOU-HAVE-THEM
-- Google
-- LineageOS
-- SlimRoms
-- AOSPA (Paranoid Android)
-- OmniRom
-- NamelessROM
-- Many others... (if you're feeling upset being out of the thanks list just send a PM ) 
-[center]
-[URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4ZFWHZX6HCSAQ"]DONATE[/URL]
-[/center]
+[SIZE="3"][URL="https://crdroid.net"]Visit official website @ crDroid.net[/URL]
+[URL="https://t.me/<telegram url>"]crDroid <device> Telegram[/URL]
+[URL="https://t.me/crDroidAndroid"]crDroid Community Telegram[/URL][/SIZE]
