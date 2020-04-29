@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 11 Dec, 2019 in the crDroidAndroid source.
+* Below features are as of 29 Apr, 2020 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 10.0.0 r11
+* Android 10.0.0 r33
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -47,13 +47,17 @@ Status Bar
 Quick Settings
 ----------
 * Tiles
+    * Colums and Rows customizations
     * Tile title toggle
     * Vibrate on touch toggle
 * Miscellaneous
     * Battery percentage
+    * Battery estimate
     * Clock in quick status bar header
     * Birghtness slider
     * Auto brightness toggle
+    * Header images
+    * Blur
 
 Lock Screen
 ----------
@@ -62,10 +66,20 @@ Lock Screen
     * Media cover art filter
     * Music visualizer
     * Battery info toggle
+    * Statusbar toggle
+    * Lock icon toggle
+    * Battery charge animations
+    * Face unlock
+
 * Gestures
     * Tap to sleep toggle
     * Fingerprint authentication vibration toggle
     * Fingerprint error vibration toggle
+
+* Miscellaneous
+    * Power menu toggle
+    * Secure power menu toggle
+    * QS Tiles toggle
 
 Navigation
 ----------
@@ -94,14 +108,17 @@ Buttons
   * Control playback with volume buttons
   * Keyboard cursor control with volume buttons
   * Reorient volume keys on rotation change
+  * Screenshot types
 
 User Interface
 ----------
 * Animations
-
-* Animation
 * Smart Pixels
 * Style
+
+* Miscellaneous
+  * Ambient display settings
+  * Custom round corners 
 
 Notifications
 ----------
@@ -118,6 +135,7 @@ Sound
 * Screenshot sound toggle
 * Live volume steps customization
 * Volume Panel
+* Adaptive playback
 
 Misc
 ----------
