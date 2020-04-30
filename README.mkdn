@@ -31,11 +31,12 @@ Status Bar
     * Clock style
     * Clock & date customizations
     * Network Traffic monitor and customizations
+    * Old style signal icons
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
     * BT battery status toggle
-    * VoLTE toggle
+    * VoLTE style toggle
 * Battery customizations
     * Battery style and percentage customizations
     * Battery bar customizations
@@ -51,25 +52,33 @@ Quick Settings
     * Tile title toggle
     * Vibrate on touch toggle
 * Miscellaneous
+    * Batery style
+    * Battery location
     * Battery percentage
     * Battery estimate
-    * Clock in quick status bar header
+    * Custom header image
+    * Blur
+    * Clock show/hide toggle
     * Birghtness slider
     * Auto brightness toggle
-    * Header images
-    * Blur
 
 Lock Screen
 ----------
 * Interface
+    * Statusbar toggle
+    * Lock icon toggle
     * Media cover art toggle
     * Media cover art filter
     * Music visualizer
+    * Charging animation styles
     * Battery info toggle
-    * Statusbar toggle
-    * Lock icon toggle
-    * Battery charge animations
-    * Face unlock
+
+* Fingerprint on display customizations
+    * FOD icon picker
+    * FOD wallpaper color
+    * FOD recogninzing anumations
+    * FOD animation effects
+    * FOD preset color
 
 * Gestures
     * Tap to sleep toggle
@@ -79,12 +88,27 @@ Lock Screen
 * Miscellaneous
     * Power menu toggle
     * Secure power menu toggle
-    * QS Tiles toggle
+    * QS Tiles visibility toggle
 
 Navigation
 ----------
 * Navigation bar toggle
 * Stock navbar settings
+    * System navigation type
+      * Gesture nav (with options)
+      * 2-button navigation
+      * 3-button navigation
+    * Show arrows while typing toggle
+    * Layout
+      * Normal
+      * Compact
+      * Left-leaning
+      * Right-leaning
+    * Invert layout
+    * Home long press action
+    * Home double tap action
+    * Recents long press action
+    * Edge long swipe action (gesture nav option)
 * Gestures
     * Touch screen gestures
     * System gestures
@@ -92,29 +116,36 @@ Navigation
 Buttons
 ----------
 * Power button
-  * Advanced restart toggle
   * Power menu customizations
-    * Screenshot
-    * Airplane mode
-    * User Switcher
-    * Lockdown
-    * Emergency
+    * Options
+      * Screenshot
+      * Screenrecord
+      * Airplane mode
+      * User Switcher
+      * Lockdown
+      * Emergency
+    * Advanced restart options
+      * Advanced restart toggle
+      * Secured lockscreen toggle
   * End call with power button
   * Long press power button for torch
   * Automatically turn torch off
 * Volume buttons
+  * Screenshot types
   * Wake device with HW non-capacitive button
   * Answer call with volume button
   * Control playback with volume buttons
   * Keyboard cursor control with volume buttons
   * Reorient volume keys on rotation change
-  * Screenshot types
 
 User Interface
 ----------
+* Ambient display
 * Animations
+* Force full screen apps
+* Display cutout
+* Rounded corners
 * Smart Pixels
-* Style
 
 * Miscellaneous
   * Ambient display settings
@@ -122,6 +153,12 @@ User Interface
 
 Notifications
 ----------
+* Alert slider notifications
+* Ticker options
+* Blink flashlight on call
+* Notification vibration toggle
+* Noisy notifications
+* Kill app button
 * Heads up
   * Heads up toggle
   * Less boring toggle
@@ -140,11 +177,15 @@ Sound
 Misc
 ----------
 * Show CPU info overlay
+* Disable device identifier restrictions
+* Hide apps from recents
 * Gaming mode
 * Keyboard Settings
+* Smart charging
 * Swipe to screenshot
-* Toast icon toggle 
+* Toast icon toggle
 * Pocket detection - prevents device interaction when inside pocket
+* Disable force close toggle
 
 About crDroid
 ----------
