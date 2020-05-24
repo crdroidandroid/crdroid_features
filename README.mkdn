@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 29 Apr, 2020 in the crDroidAndroid source.
+* Below features are as of 24 May, 2020 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 10.0.0 r33
+* Android 10.0.0 r35
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -67,6 +67,7 @@ Lock Screen
 * Interface
     * Statusbar toggle
     * Lock icon toggle
+    * Weather
     * Media cover art toggle
     * Media cover art filter
     * Music visualizer
@@ -146,6 +147,7 @@ User Interface
 * Display cutout
 * Rounded corners
 * Smart Pixels
+* Weather sevice
 
 * Miscellaneous
   * Ambient display settings
@@ -173,6 +175,7 @@ Sound
 * Live volume steps customization
 * Volume Panel
 * Adaptive playback
+* When headset connected, incoming call plays on option
 
 Misc
 ----------
