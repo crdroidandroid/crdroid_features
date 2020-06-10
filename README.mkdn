@@ -52,7 +52,7 @@ Quick Settings
     * Tile title toggle
     * Vibrate on touch toggle
 * Miscellaneous
-    * Batery style
+    * Battery style
     * Battery location
     * Battery percentage
     * Battery estimate
@@ -77,7 +77,7 @@ Lock Screen
 * Fingerprint on display customizations
     * FOD icon picker
     * FOD wallpaper color
-    * FOD recogninzing anumations
+    * FOD recogninzing animations
     * FOD animation effects
     * FOD preset color
 
