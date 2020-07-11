@@ -59,7 +59,7 @@ Quick Settings
     * Custom header image
     * Blur
     * Clock show/hide toggle
-    * Birghtness slider
+    * Brightness slider
     * Auto brightness toggle
 
 Lock Screen
