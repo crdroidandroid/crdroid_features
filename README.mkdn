@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 24 May, 2020 in the crDroidAndroid source.
+* Below features are as of 11 July, 2020 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 10.0.0 r35
+* Android 10.0.0 r40
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -37,6 +37,7 @@ Status Bar
     * Roaming indicator toggle
     * BT battery status toggle
     * VoLTE style toggle
+    * VoWiFi style toggle
 * Battery customizations
     * Battery style and percentage customizations
     * Battery bar customizations
@@ -61,6 +62,7 @@ Quick Settings
     * Clock show/hide toggle
     * Brightness slider
     * Auto brightness toggle
+    * Material dimiss button
 
 Lock Screen
 ----------
@@ -106,6 +108,7 @@ Navigation
       * Left-leaning
       * Right-leaning
     * Invert layout
+    * Rotation button
     * Home long press action
     * Home double tap action
     * Recents long press action
@@ -147,6 +150,7 @@ User Interface
 * Display cutout
 * Rounded corners
 * Smart Pixels
+* Preference switch style
 * Weather sevice
 
 * Miscellaneous
@@ -187,6 +191,7 @@ Misc
 * Smart charging
 * Swipe to screenshot
 * Toast icon toggle
+* Sensor block per-package
 * Pocket detection - prevents device interaction when inside pocket
 * Disable force close toggle
 
