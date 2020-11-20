@@ -11,7 +11,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 [/SIZE]
 
 [SIZE="5"]Features:[/SIZE]
-[URL="https://github.com/crdroidandroid/crdroid_features/blob/10.0/README.mkdn"]https://github.com/crdroidandroid/crdroid_features/blob/10.0/README.mkdn[/URL]
+[URL="https://github.com/crdroidandroid/crdroid_features/blob/11.0/README.mkdn"]https://github.com/crdroidandroid/crdroid_features/blob/11.0/README.mkdn[/URL]
 
 [SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
 [HIDE]
@@ -45,7 +45,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 [SIZE="5"]Download:[/SIZE]
 [B]ROM[/B] [URL="https://crdroid.net/<device codename>"]https://crdroid.net/<device codename>[/URL] 
-[B]Changelog:[/B] [URL="https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/10.0/changelog_<device codename>.txt"]https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/10.0/changelog_<device codename>.txt[/URL]
+[B]Changelog:[/B] [URL="https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/11.0/changelog_<device codename>.txt"]https://raw.githubusercontent.com/crdroidandroid/android_vendor_crDroidOTA/11.0/changelog_<device codename>.txt[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
 <!-- list here -->
