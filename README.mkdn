@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 11 July, 2020 in the crDroidAndroid source.
+* Below features are as of 26 December, 2020 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 10.0.0 r40
+* Android 11.0.0 r19
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -31,7 +31,6 @@ Status Bar
     * Clock style
     * Clock & date customizations
     * Network Traffic monitor and customizations
-    * Old style signal icons
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
@@ -44,7 +43,7 @@ Status Bar
 * Gestures
     * Tap to sleep toggle
     * Brightness control
-    * Smart pulldown customizations
+    * Quick pulldown customizations
 
 Quick Settings
 ----------
@@ -58,11 +57,9 @@ Quick Settings
     * Battery percentage
     * Battery estimate
     * Custom header image
-    * Blur
     * Clock show/hide toggle
     * Brightness slider
     * Auto brightness toggle
-    * Material dimiss button
 
 Lock Screen
 ----------
@@ -75,13 +72,6 @@ Lock Screen
     * Music visualizer
     * Charging animation styles
     * Battery info toggle
-
-* Fingerprint on display customizations
-    * FOD icon picker
-    * FOD wallpaper color
-    * FOD recogninzing animations
-    * FOD animation effects
-    * FOD preset color
 
 * Gestures
     * Tap to sleep toggle
@@ -108,7 +98,7 @@ Navigation
       * Left-leaning
       * Right-leaning
     * Invert layout
-    * Rotation button
+    * Back long press action
     * Home long press action
     * Home double tap action
     * Recents long press action
@@ -121,13 +111,6 @@ Buttons
 ----------
 * Power button
   * Power menu customizations
-    * Options
-      * Screenshot
-      * Screenrecord
-      * Airplane mode
-      * User Switcher
-      * Lockdown
-      * Emergency
     * Advanced restart options
       * Advanced restart toggle
       * Secured lockscreen toggle
@@ -144,27 +127,13 @@ Buttons
 
 User Interface
 ----------
-* Ambient display
-* Animations
-* Force full screen apps
-* Display cutout
-* Rounded corners
 * Smart Pixels
-* Preference switch style
+* Navbar styles
 * Weather sevice
-
-* Miscellaneous
-  * Ambient display settings
-  * Custom round corners 
 
 Notifications
 ----------
-* Alert slider notifications
-* Ticker options
-* Blink flashlight on call
-* Notification vibration toggle
-* Noisy notifications
-* Kill app button
+
 * Heads up
   * Heads up toggle
   * Less boring toggle
@@ -184,16 +153,11 @@ Sound
 Misc
 ----------
 * Show CPU info overlay
-* Disable device identifier restrictions
-* Hide apps from recents
 * Gaming mode
-* Keyboard Settings
 * Smart charging
 * Swipe to screenshot
 * Toast icon toggle
-* Sensor block per-package
 * Pocket detection - prevents device interaction when inside pocket
-* Disable force close toggle
 
 About crDroid
 ----------
