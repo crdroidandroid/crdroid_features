@@ -16,21 +16,23 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Android 11.0.0 r19
+* Always latest Android 11.0.0
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
 * crDroid Music - Music player based on Phonograph
-* crDroid Home - Revamped and customized launcher with Google now integration 
-* ART and BIONIC optimizations 
+* crDroid Home - Revamped and customized launcher with Google Now integration
+* Optimized Art and Bionic
+* Updated libraries for better performance and security
+* Many under the hood changes for best exeperience!
 
 Status Bar
 ----------
 * Icons
     * Status Bar icons toggle
     * Clock style
-    * Clock & date customizations
-    * Network Traffic monitor and customizations
+    * Clock & date customization
+    * Network Traffic monitor and customization
     * Old style signal icon
     * Data disabled indicator
     * 4G icon toggle
@@ -39,18 +41,18 @@ Status Bar
     * VoLTE style toggle
     * VoWiFi style toggle
     * VoWiFi override
-* Battery customizations
-    * Battery style and percentage customizations
-    * Battery bar customizations
+* Battery customization
+    * Battery style and percentage customization
+    * Battery bar customization
 * Gestures
     * Tap to sleep toggle
     * Brightness control
-    * Quick pulldown customizations
+    * Quick pulldown customization
 
 Quick Settings
 ----------
 * Tiles
-    * Colums and Rows customizations
+    * Columns and Rows customization
     * Tile title toggle
     * Vibrate on touch toggle
     * Tint QS tiles toggle
@@ -86,7 +88,7 @@ Lock Screen
     * Charging animation styles
     * Battery info toggle
 
-* FOD customations
+* FOD customization
     * FOD icon picker
     * Screen off fingerprint toggle
     * Fingerprint animation toggle
@@ -132,7 +134,7 @@ Navigation
 Buttons
 ----------
 * Power button
-  * Power menu customizations
+  * Power menu customization
     * Advanced restart options
       * Advanced restart toggle
       * Secured lockscreen toggle
@@ -159,7 +161,7 @@ User Interface
 * Quick settings tile style
 * Screen off animation
 * Settings dashboard icons
-* Weather sevice
+* Weather service
 
 Notifications
 ----------
