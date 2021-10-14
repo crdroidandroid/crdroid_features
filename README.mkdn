@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 03 May, 2021 in the crDroidAndroid source.
+* Below features are as of 14 Oct, 2021 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Always latest Android 11.0.0
+* Always latest Android 12.0.0
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -28,178 +28,39 @@ General
 
 Status Bar
 ----------
-* Icons
-    * Status Bar icons toggle
-    * Clock style
-    * Clock & date customization
-    * Network Traffic monitor and customization
-    * Old style signal icon
-    * Data disabled indicator
-    * 4G icon toggle
-    * Roaming indicator toggle
-    * BT battery status toggle
-    * VoLTE style toggle
-    * VoWiFi style toggle
-    * VoWiFi override
-* Battery customization
-    * Battery style and percentage customization
-    * Battery bar customization
-* Gestures
-    * Tap to sleep toggle
-    * Brightness control
-    * Quick pulldown customization
+
 
 Quick Settings
 ----------
-* Tiles
-    * Columns and Rows customization
-    * Tile title toggle
-    * Vibrate on touch toggle
-    * Tint QS tiles toggle
-    * QS tile icons color toggle
-* Miscellaneous
-    * Data usage
-    * Battery style
-    * Battery location
-    * Battery percentage
-    * Battery estimate
-    * Custom header image
-    * Status bar opacity
-    * Status bar gradient
-    * Panel opacity
-    * Clock show/hide toggle
-    * Brightness slider
-    * Auto brightness toggle
-    * Material dismiss button toggle
-* Footer
-    * User account icon toggle
-    * Edit tiles icon toggle
-    * Running services shortcut toggle
-    * Settings shortcut toggle
+
 
 Lock Screen
 ----------
-* Interface
-    * Statusbar toggle
-    * Lock icon toggle
-    * Weather
-    * Media cover art toggle
-    * Media cover art filter
-    * Charging animation styles
-    * Battery info toggle
 
-* FOD customization
-    * FOD icon picker
-    * Screen off fingerprint toggle
-    * Fingerprint animation toggle
-    * Fingerprint animation effect
-    * Disable nightlight when showing FOD toggle
-    * Fingerprint press color
-
-* Gestures
-    * Tap to sleep toggle
-    * Fingerprint authentication vibration toggle
-    * Fingerprint error vibration toggle
-
-* Miscellaneous
-    * Power menu toggle
-    * Secure power menu toggle
-    * QS Tiles visibility toggle
 
 Navigation
 ----------
-* Navigation bar toggle
-* Stock navbar settings
-    * System navigation type
-      * Gesture nav (with options)
-      * 2-button navigation
-      * 3-button navigation
-    * Pixel animation toggle
-    * Show arrows while typing toggle
-    * Layout
-      * Normal
-      * Compact
-      * Left-leaning
-      * Right-leaning
-    * Invert layout
-    * Back long press action
-    * Home long press action
-    * Home double tap action
-    * Recents long press action
-    * Edge long swipe action (gesture nav option)
-* Gestures
-    * Touch screen gestures
-    * System gestures
+
 
 Buttons
 ----------
-* Power button
-  * Power menu customization
-    * Advanced restart options
-      * Advanced restart toggle
-      * Secured lockscreen toggle
-  * End call with power button
-  * Long press power button for torch
-  * Automatically turn torch off
-* Volume buttons
-  * Click to partial screenshot toggle
-  * Screenshot delay
-  * Wake device with HW non-capacitive button
-  * Answer call with volume button
-  * Control playback with volume buttons
-  * Keyboard cursor control with volume buttons
-  * Reorient volume keys on rotation change
+
 
 User Interface
 ----------
-* Ambient display
-* Charging animation on device plugged in
-* Display cutout
-* Smart Pixels
-* Preference switch style
-* Navbar styles
-* Quick settings tile style
-* Screen off animation
-* Settings dashboard icons
-* Weather service
+
 
 Notifications
 ----------
-* Alert slider notifications toggle
-* Ticker
-* Noisy notifications
-* Notification background opacity
-* In-call options
-  * Vibrate on connect
-  * Vibrate on call waiting
-  * Vibrate on disconnect 
-* Heads up
-  * Heads up toggle
-  * Less boring toggle
-* Light brightness settings
-  * Battery light
-  * Notification light
+
 
 Sound
 ----------
-* Pulse
-* Charging sounds
-* Screenshot sound toggle
-* Live volume steps customization
-* Volume Panel
-* Adaptive playback
+
 
 Misc
 ----------
-* Clipboard access alerts
-* Show CPU info overlay
-* Gaming mode
-* Smart charging
-* Swipe to screenshot
-* Toast icon toggle
-* Sensor block per-package
-* Pocket detection - prevents device interaction when inside pocket
-* Screenshot quality
+
 
 About crDroid
 ----------
@@ -211,5 +72,4 @@ About crDroid
 * Github
 * Telegram
 * Updates channel
-* Updates (directly via OTA)
 * The drill
