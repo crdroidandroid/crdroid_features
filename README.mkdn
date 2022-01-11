@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 14 Oct, 2021 in the crDroidAndroid source.
+* Below features are as of 11 Jan, 2022 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -20,7 +20,7 @@ General
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
-* crDroid Music - Music player based on Phonograph
+* crDroid Music - Music player based on Eleven
 * crDroid Home - Revamped and customized launcher with Google Now integration
 * Optimized Art and Bionic
 * Updated libraries for better performance and security
@@ -28,27 +28,103 @@ General
 
 Status Bar
 ----------
-
+* Icons
+    * Status Bar icons toggle
+    * Clock style
+    * Clock & date customization
+    * Network Traffic monitor and customization
+    * Old style signal icon
+    * Data disabled indicator
+    * 4G icon toggle
+    * Roaming indicator toggle
+    * BT battery status toggle
+    * VoLTE style toggle
+    * VoWiFi style toggle
+    * VoWiFi override
+* Battery customization
+    * Battery style and percentage customization
+    * Battery bar customization
+* Gestures
+    * Tap to sleep toggle
+    * Brightness control
+    * Quick pulldown customization
 
 Quick Settings
 ----------
-
+* Miscellaneous
+    * Battery style
+    * Battery location
+    * Battery percentage
+    * Battery estimate
+    * Custom header image
+    * Status bar opacity
+    * Status bar gradient
+    * Panel opacity
+    * Clock show/hide toggle
+    * Brightness slider
+    * Auto brightness toggle
+* Footer
+    * VPN alert toogle
+    * User account icon toggle
+    * Edit tiles icon toggle
+    * Power menu shortcut toggle
+    * Running services shortcut toggle
+    * Settings shortcut toggle
 
 Lock Screen
 ----------
+* Interface
+    * Media cover art toggle
+    * Media cover art filter
+    * Battery info toggle
 
+* Gestures
+    * Tap to sleep toggle
 
 Navigation
 ----------
-
+* Navigation bar toggle
+* Layout
+    * Show arrow keys while typing
+    * Layout
+      * Normal
+      * Compact
+      * Left-leaning
+      * Right-leaning
+    * Invert layout
+    * Back long press action
+    * Home long press action
+    * Home double tap action
+    * Recents long press action
+    * Edge long swipe action (gesture nav option)
 
 Buttons
 ----------
-
+* Power button
+  * Power menu customization
+    * Advanced restart options
+  * End call with power button
+  * Long press power button for torch
+  * Automatically turn torch off
+* Volume buttons
+  * Wake device with HW non-capacitive button
+  * Answer call with volume button
+  * Control playback with volume buttons
+  * Keyboard cursor control with volume buttons
+  * Reorient volume keys on rotation change
 
 User Interface
 ----------
-
+* Ambient display
+* Monet settings
+  * Custom color picker
+  * White luminance
+  * Accurate shades toggle
+  * Chroma factor
+  * Linear brightness toggle
+* Font styles
+* Icon pack styles
+* Adaptive icon shape styles
 
 Notifications
 ----------
@@ -56,11 +132,13 @@ Notifications
 
 Sound
 ----------
-
+* Pulse
+* Live volume steps customization
 
 Misc
 ----------
-
+* Swipe to screenshot
+* Pocket detection - prevents device interaction when inside pocket
 
 About crDroid
 ----------
@@ -72,4 +150,5 @@ About crDroid
 * Github
 * Telegram
 * Updates channel
+* Updates (directly via OTA)
 * The drill
