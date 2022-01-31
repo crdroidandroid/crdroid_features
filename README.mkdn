@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 11 Jan, 2022 in the crDroidAndroid source.
+* Below features are as of 31 Jan, 2022 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -16,7 +16,7 @@ You can contribute to the ROM by submitting translations with few easy clicks be
 
 General
 ----------
-* Always latest Android 12.0.0
+* Always latest Android 12.0
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -33,7 +33,6 @@ Status Bar
     * Clock style
     * Clock & date customization
     * Network Traffic monitor and customization
-    * Old style signal icon
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
@@ -41,30 +40,32 @@ Status Bar
     * VoLTE style toggle
     * VoWiFi style toggle
     * VoWiFi override
+    * Mic and camera privacy indicator
+    * Location privacy indicator
+    * Colored icons
+    * Show notifications count
 * Battery customization
     * Battery style and percentage customization
     * Battery bar customization
 * Gestures
     * Tap to sleep toggle
     * Brightness control
-    * Quick pulldown customization
+    * Quick pulldown
+    * Smart pulldown
 
 Quick Settings
 ----------
 * Miscellaneous
+    * Clock toggle
+    * Date toggle
     * Battery style
     * Battery location
     * Battery percentage
     * Battery estimate
-    * Custom header image
-    * Status bar opacity
-    * Status bar gradient
-    * Panel opacity
-    * Clock show/hide toggle
     * Brightness slider
     * Auto brightness toggle
 * Footer
-    * VPN alert toogle
+    * Footer alerts
     * User account icon toggle
     * Edit tiles icon toggle
     * Power menu shortcut toggle
@@ -77,13 +78,16 @@ Lock Screen
     * Media cover art toggle
     * Media cover art filter
     * Battery info toggle
+    * Small clock toggle
 
 * Gestures
     * Tap to sleep toggle
+    * Ripple effect
 
 Navigation
 ----------
 * Navigation bar toggle
+* Pixel animation
 * Layout
     * Show arrow keys while typing
     * Layout
@@ -124,19 +128,33 @@ User Interface
   * Linear brightness toggle
 * Font styles
 * Icon pack styles
-* Adaptive icon shape styles
+* Signal icon style
+* WiFi icon style
+* Icon shape
+* Full screen apps
 
 Notifications
 ----------
-
+* Noisy notifications
+* Heads up
+* Less boring
+* Flashlight
+  * Blink flashlight for incoming call
+  * Ignore DND
+  * Blink rate
 
 Sound
 ----------
 * Pulse
 * Live volume steps customization
+* In-call vibration options
+  * Vibrate on connect
+  * Vibrate on call waiting
+  * Vibrate on disconnect  
 
 Misc
 ----------
+* Game space
 * Swipe to screenshot
 * Pocket detection - prevents device interaction when inside pocket
 
@@ -148,7 +166,8 @@ About crDroid
 * Share crDroid
 * Support us
 * Github
-* Telegram
-* Updates channel
+* crDroid Community on Telegram
+* Telegram Updates channel
+* Sponsor
 * Updates (directly via OTA)
 * The drill
