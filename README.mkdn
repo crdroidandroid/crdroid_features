@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 31 Jan, 2022 in the crDroidAndroid source.
+* Below features are as of 05 Mar, 2022 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -33,9 +33,11 @@ Status Bar
     * Clock style
     * Clock & date customization
     * Network Traffic monitor and customization
+    * Old style signal icon
     * Data disabled indicator
     * 4G icon toggle
     * Roaming indicator toggle
+    * Combined signal icons
     * BT battery status toggle
     * VoLTE style toggle
     * VoWiFi style toggle
@@ -64,6 +66,7 @@ Quick Settings
     * Battery estimate
     * Brightness slider
     * Auto brightness toggle
+    * Hide QS on secure lockscreen
 * Footer
     * Footer alerts
     * User account icon toggle
@@ -79,6 +82,9 @@ Lock Screen
     * Media cover art filter
     * Battery info toggle
     * Small clock toggle
+    * UDFPS customizations
+      * UDFPS icon picker
+      * UDFPS custom animation
 
 * Gestures
     * Tap to sleep toggle
@@ -120,21 +126,25 @@ Buttons
 User Interface
 ----------
 * Ambient display
+* Charging animation
+* Full screen apps
+* Screen off animation
 * Monet settings
   * Custom color picker
   * White luminance
   * Accurate shades toggle
   * Chroma factor
   * Linear brightness toggle
+* Navbar styles 
 * Font styles
 * Icon pack styles
 * Signal icon style
 * WiFi icon style
 * Icon shape
-* Full screen apps
 
 Notifications
 ----------
+* Alert slider notifications (device specific)
 * Noisy notifications
 * Heads up
 * Less boring
@@ -146,15 +156,19 @@ Notifications
 Sound
 ----------
 * Pulse
-* Live volume steps customization
+* Volume steps customization
+* Volume panel on left toggle
+* Volume panel timeout
 * In-call vibration options
   * Vibrate on connect
   * Vibrate on call waiting
-  * Vibrate on disconnect  
+  * Vibrate on disconnect
 
 Misc
 ----------
 * Game space
+* Unlock higher FPS in game toggle
+* Unlimited Google photos toggle
 * Swipe to screenshot
 * Pocket detection - prevents device interaction when inside pocket
 
