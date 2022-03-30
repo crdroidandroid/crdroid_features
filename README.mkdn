@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 05 Mar, 2022 in the crDroidAndroid source.
+* Below features are as of 30 Mar, 2022 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -11,7 +11,7 @@ You can contribute to the ROM by submitting translations with few easy clicks
 
 General
 ----------
-* Always latest Android 12.0
+* Always latest Android 12.x
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
 * OTA notification for officially supported devices
@@ -56,10 +56,8 @@ Quick Settings
     * Clock toggle
     * Date toggle
     * Battery style
-    * Battery location
     * Battery percentage
     * Battery estimate
-    * Brightness slider
     * Auto brightness toggle
     * Hide QS on secure lockscreen
 * Footer
@@ -88,7 +86,6 @@ Lock Screen
 Navigation
 ----------
 * Navigation bar toggle
-* Pixel animation
 * Layout
     * Show arrow keys while typing
     * Layout
