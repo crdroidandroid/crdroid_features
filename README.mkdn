@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 30 Mar, 2022 in the crDroidAndroid source.
+* Below features are as of 11 Jul, 2022 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -68,6 +68,8 @@ Quick Settings
     * Running services shortcut toggle
     * Settings shortcut toggle
 
+* Clear notifications button
+
 Lock Screen
 ----------
 * Interface
@@ -82,6 +84,9 @@ Lock Screen
 * Gestures
     * Tap to sleep toggle
     * Ripple effect
+    
+* Misc
+    * Disable power menu on secure lockscreen
 
 Navigation
 ----------
@@ -137,6 +142,7 @@ User Interface
 Notifications
 ----------
 * Alert slider notifications (device specific)
+* reTicker
 * Noisy notifications
 * Heads up
 * Less boring
