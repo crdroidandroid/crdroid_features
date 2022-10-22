@@ -1,0 +1,58 @@
+<!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
+
+[CENTER][IMG]http://i.imgur.com/BE3pE0l.png[/IMG][/CENTER]
+
+[CODE]*** Disclaimer
+I am not responsible for any damage you made to your device
+You have been warned[/CODE]
+
+[SIZE="4"]
+crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
+[/SIZE]
+
+[SIZE="5"]Features:[/SIZE]
+[URL="https://github.com/crdroidandroid/crdroid_features/blob/13.0/README.mkdn"]https://github.com/crdroidandroid/crdroid_features/blob/13.0/README.mkdn[/URL]
+
+[SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
+[HIDE]
+[SIZE="4"][B]Pre-installation:[/B][/SIZE]
+[LIST][*]Recovery ([URL="recovery link"]Download from here[/URL])
+[*]gapps ([URL="gapps link"]Download from here[/URL])
+[*]Magisk 25.0 or newer for root (after first boot) - ([URL="https://github.com/topjohnwu/Magisk/releases"]Download from here[/URL])[/LIST]
+
+[SIZE="4"][B]First time installation:[/B][/SIZE]
+<!-- change according to your needs -->
+[LIST][*]step 1
+[*]step 2
+[*]step 3
+[*]step 4
+[*]step 5
+[/LIST]
+
+[SIZE="4"][B]Update installation:[/B][/SIZE]
+<!-- change according to your needs -->
+[LIST][*]step 1
+[*]step 2
+[*]step 3
+[*]step 4
+[*]step 5
+[/LIST]
+[/HIDE]
+
+[SIZE="5"]Sources:[/SIZE]
+[B]ROM:[/B] [URL="https://github.com/crdroidandroid"]https://github.com/crdroidandroid[/URL]
+[B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
+
+[SIZE="5"]Download:[/SIZE]
+[B]ROM[/B] [URL="https://crdroid.net/<device codename>"]https://crdroid.net/<device codename>[/URL] 
+[B]Changelog:[/B] [URL="https://crdroid.net/<device codename>/<crdroid version (ex 9)>#changelog"]https://crdroid.net/<device codename>/<crdroid version (ex 9)>#changelog[/URL]
+
+[SIZE="5"]Known issues:[/SIZE]
+<!-- list here -->
+
+
+[SIZE="3"][URL="https://crdroid.net"]Visit official website @ crDroid.net[/URL]
+[URL="https://t.me/<telegram url>"]crDroid <device> Telegram[/URL]
+[URL="https://t.me/crDroidAndroid"]crDroid Community Telegram[/URL]
+[URL="https://t.me/crDroidUpdates"]crDroid Updates Channel[/URL]
+[URL="https://crdroid.net/donate.php"]Donate to help our team pay server costs[/URL][/SIZE]
