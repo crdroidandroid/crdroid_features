@@ -37,6 +37,10 @@ Status Bar
   * Location privacy indicator
   * Colored icons
   * Show notifications count
+* Logo
+  * Logo toggle
+  * Logo position
+  * Logo style
 * Battery customization
   * Battery style and percentage customization
   * Battery bar customization
@@ -171,12 +175,16 @@ Notifications
   * Blink flashlight for incoming call
   * Ignore DND
   * Blink rate
+* Light brightness settings
+  * Battery light
+  * Notification light
 
 Sound
 ----------
 * Pulse
 * Volume steps customization
 * Screenshot sound
+* Adaptive playback
 * Volume panel
   * Volume panel on left toggle
   * Volume panel timeout
@@ -190,7 +198,15 @@ Misc
 * Game space
 * Unlock higher FPS in game toggle
 * Unlimited Google photos toggle
+* Smart charging
+  * Smart charging toggle
+  * Reset battery statistics
+  * Stop trigger level
+  * Start trigger level
 * Swipe to screenshot
+* Sensor block per-package
+  * Sensor block toggle
+  * Sensor blok app list
 * Pocket detection - prevents device interaction when inside pocket
 * Weather settings
 
