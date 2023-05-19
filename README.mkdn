@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 19 Nov, 2022 in the crDroidAndroid source.
+* Below features are as of 19 May, 2023 in the crDroidAndroid source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -33,6 +33,7 @@ Status Bar
   * 4G icon toggle
   * Roaming indicator toggle
   * BT battery status toggle
+  * Wifi standard version toggle
   * Mic and camera privacy indicator
   * Location privacy indicator
   * Colored icons
@@ -53,12 +54,10 @@ Status Bar
 Quick Settings
 ----------
 * Miscellaneous
-  * Clock toggle
-  * Date toggle
-  * Battery style
-  * Battery percentage
+  * Header Image
   * Battery estimate
   * Auto brightness toggle
+  * Brightness slider position
   * Hide QS on secure lockscreen
   * Background transparency
 * Tiles layout
@@ -72,17 +71,7 @@ Quick Settings
   * Animation interpolator
 * Footer
   * Data usage
-  * Footer alerts
-  * User account icon toggle
-  * Edit tiles icon toggle
-  * Power menu shortcut toggle
-  * Running services shortcut toggle
-  * Settings shortcut toggle
-
-* Clear notifications button
-  * Toggle to enable/disabled
-  * Button style
-  * Button Background
+  * Clear notifications button
 
 Lock Screen
 ----------
@@ -91,7 +80,16 @@ Lock Screen
   * Media cover art filter
   * Weather condition
   * Weather location
+  * Pixel style Weather
   * Battery info toggle
+  * Lockscreen bottom (left/right) shortcuts
+    * Home controls
+    * Wallet
+    * Flashlight
+    * QS code scanner
+    * Camera
+    * DND
+    * None
   * UDFPS customizations
     * UDFPS icon picker
     * UDFPS custom animation
@@ -148,17 +146,20 @@ User Interface
 * Full screen apps
 * Screen off animation
 * Monet settings
-  * Custom color picker
+  * Custom accent color picker
+  * Custom background color picker
   * White luminance
   * Accurate shades toggle
   * Chroma factor
   * Linear brightness toggle
 * Navbar styles 
 * Font styles
+* Clock font styles
 * Icon pack styles
 * Signal icon style
 * WiFi icon style
 * Icon shape
+* Floating rotation button
 
 Notifications
 ----------
@@ -170,7 +171,8 @@ Notifications
 * Heads up
   * Heads up toggle
   * Less boring
-  * time out
+  * Time out
+  * Clipboard overlay
 * Flashlight
   * Blink flashlight for incoming call
   * Ignore DND
@@ -220,6 +222,6 @@ About crDroid
 * Github
 * crDroid Community on Telegram
 * Telegram Updates channel
-* Sponsor
+* Sponsors
 * Updates (directly via OTA)
 * The drill
