@@ -14,11 +14,14 @@ crDroid is designed to increase performance and reliability over stock Android f
 [URL="https://github.com/crdroidandroid/crdroid_features/blob/14.0/README.mkdn"]https://github.com/crdroidandroid/crdroid_features/blob/14.0/README.mkdn[/URL]
 
 [SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
+<!-- remove this or change according to your needs -->
+Install steps can be found on our device page [URL="https://crdroid.net/<device codename>/10/install"]https://crdroid.net/device/crversion/install[/URL]
+
+<!-- remove this or change according to your needs -->
 [HIDE]
 [SIZE="4"][B]Pre-installation:[/B][/SIZE]
 [LIST][*]Recovery ([URL="recovery link"]Download from here[/URL])
-[*]gapps ([URL="gapps link"]Download from here[/URL])
-[*]Magisk 25.0 or newer for root (after first boot) - ([URL="https://github.com/topjohnwu/Magisk/releases"]Download from here[/URL])[/LIST]
+[*]gapps ([URL="https://nikgapps.com/crdroid-official"]Download from here[/URL])[/LIST]
 
 [SIZE="4"][B]First time installation:[/B][/SIZE]
 <!-- change according to your needs -->
