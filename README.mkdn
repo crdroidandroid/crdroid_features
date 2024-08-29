@@ -142,7 +142,7 @@ User Interface
 ----------
 * Ambient display
   * Wake screen for notifications
-  * Always show tiem and info (AOD)
+  * Always show time and info (AOD)
   * Always show when charging
   * Music ticker
   * Edge light
