@@ -17,31 +17,6 @@ crDroid is designed to increase performance and reliability over stock Android f
 <!-- remove this or change according to your needs -->
 Install steps can be found on our device page [URL="https://crdroid.net/<device codename>/11/install"]https://crdroid.net/device/crversion/install[/URL]
 
-<!-- remove this or change according to your needs -->
-[HIDE]
-[SIZE="4"][B]Pre-installation:[/B][/SIZE]
-[LIST][*]Recovery ([URL="recovery link"]Download from here[/URL])
-[*]gapps ([URL="https://nikgapps.com/crdroid-official"]Download from here[/URL])[/LIST]
-
-[SIZE="4"][B]First time installation:[/B][/SIZE]
-<!-- change according to your needs -->
-[LIST][*]step 1
-[*]step 2
-[*]step 3
-[*]step 4
-[*]step 5
-[/LIST]
-
-[SIZE="4"][B]Update installation:[/B][/SIZE]
-<!-- change according to your needs -->
-[LIST][*]step 1
-[*]step 2
-[*]step 3
-[*]step 4
-[*]step 5
-[/LIST]
-[/HIDE]
-
 [SIZE="5"]Sources:[/SIZE]
 [B]ROM:[/B] [URL="https://github.com/crdroidandroid"]https://github.com/crdroidandroid[/URL]
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
