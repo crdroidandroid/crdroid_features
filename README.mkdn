@@ -151,7 +151,7 @@ User Interface
   * Hand wave
   * Pocket 
   * Wake up
-  * Vibtrate
+  * Vibrate
 * Charging animation
 * Full screen apps
 * Screen off animation
