@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 07 November, 2024 in the crDroid Android source.
+* Below features are as of 24 January, 2025 in the crDroid Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -14,7 +14,7 @@ General
 * Always latest Android 15.x
 * Pixel look and feel
 * crDroid Settings - Our own chamber of secrets with below customization settings
-* OTA notification for officially supported devices
+* OTA for officially supported devices
 * crDroid Music - Music player based on Eleven
 * crDroid Home - Revamped and customized launcher with Google Now integration
 * Optimized Art and Bionic
@@ -48,6 +48,10 @@ Status Bar
   * Tap to sleep toggle
   * Brightness control
   * Quick pulldown
+* Extra padding
+  * Start padding
+  * Top padding
+  * End padding
 
 Quick Settings
 ----------
@@ -56,7 +60,7 @@ Quick Settings
   * Battery style and percentage customization
   * Hide QS on secure lockscreen
   * Dual tone themed colors toggle
-  * Background transparency
+  * Background opacity
   * Bluetooth tile dialog toggle
 * Brightness slider
   * When to show
@@ -76,7 +80,6 @@ Quick Settings
   * Animation interpolator
 * Footer
   * Data usage toggle
-  * Clear notifications button
 
 Lock Screen
 ----------
@@ -85,11 +88,13 @@ Lock Screen
 * Interface
   * Carrier name toggle
   * Battery info toggle
+  * Smartspace
 * Weather
   * Weather settings
   * Weather update toggle
   * Current location toggle
-  * Current condition toggle
+  * Wind info toggle
+  * Humidity info toggle
 * Gestures
   * Tap to sleep toggle
   * UDFPS icon picker
@@ -118,6 +123,7 @@ Navigation
   * Home long press action
   * Home double tap action
   * Recents long press action
+  * Recents double press action
   * Bottom corner swipe up action
   * Edge long swipe action (gesture nav option)
 
@@ -151,7 +157,7 @@ User Interface
   * Hand wave
   * Pocket 
   * Wake up
-  * Vibtrate
+  * Vibrate
 * Charging animation
 * Full screen apps
 * Screen off animation
@@ -178,7 +184,6 @@ Notifications
 * Show clipboard overlay toggle
 * Heads up
   * Heads up toggle
-  * Island notification
   * Less boring toggle
   * Timeout interval customization
 * Flashlight
@@ -207,6 +212,8 @@ Misc
 * Unlock higher FPS in game toggle
 * Unlimited Google photos toggle
 * Netflix spoof
+* Allow app downgrade toggle
+* Sidebar
 * Three finger swipe action
 * Sensor block per-package
   * Sensor block toggle
