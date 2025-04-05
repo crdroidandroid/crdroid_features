@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 24 January, 2025 in the crDroid Android source.
+* Below features are as of 05 April, 2025 in the crDroid Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -93,6 +93,7 @@ Lock Screen
   * Weather settings
   * Weather update toggle
   * Current location toggle
+  * Current condition toggle
   * Wind info toggle
   * Humidity info toggle
 * Gestures
@@ -105,27 +106,6 @@ Lock Screen
   * Ripple effect
 * Misc
   * Disable power menu on secure lockscreen
-
-Navigation
-----------
-* Navigation bar toggle
-* Pixel animation
-* Layout
-  * Show arrow keys while typing
-  * Layout
-    * Normal
-    * Compact
-    * Left-leaning
-    * Right-leaning
-  * Invert layout
-* Actions
-  * Back long press action
-  * Home long press action
-  * Home double tap action
-  * Recents long press action
-  * Recents double press action
-  * Bottom corner swipe up action
-  * Edge long swipe action (gesture nav option)
 
 Buttons
 ----------
