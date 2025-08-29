@@ -1,0 +1,217 @@
+![alt text][logo]
+
+  [logo]:https://crdroid.net/img/logo.png ""
+* Below features are as of 29 August, 2025 in the crDroid Android source.
+* Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
+
+Translations
+----------
+You can contribute to the ROM by submitting translations with few easy clicks  
+[Help translate](https://crdroid.net/translations)
+
+General
+----------
+* Always latest Android 16.x
+* Pixel look and feel
+* crDroid Settings - Our own chamber of secrets with below customization settings
+* OTA for officially supported devices
+* crDroid Music - Music player based on Eleven
+* crDroid Home - Revamped and customized launcher with Google Now integration
+* Optimized Art and Bionic
+* Updated libraries for better performance and security
+* Many under the hood changes for best exeperience!
+
+Status Bar
+----------
+* Icons
+  * Status Bar icons toggle
+  * Clock style
+  * Clock & date customization
+  * Network Traffic monitor and customization
+  * Data disabled indicator toggle
+  * 4G/LTE toggle
+  * BT battery status toggle
+  * Wifi standard info
+  * Mic and camera privacy indicator toggle
+  * Location privacy indicator toggle
+  * Media projection privacy indicator toggle
+  * Colored icons
+  * Show notifications count
+* Logo
+  * Logo toggle
+  * Logo position
+  * Logo style
+* Battery customization
+  * Battery style and percentage customization
+  * Battery bar customization
+* Gestures
+  * Tap to sleep toggle
+  * Brightness control
+  * Quick pulldown
+* Extra padding
+  * Start padding
+  * Top padding
+  * End padding
+
+Quick Settings
+----------
+* Miscellaneous
+  * Header image
+  * Battery style and percentage customization
+  * Bluetooth tile dialog toggle
+* Brightness slider
+  * When to show
+  * Brightness slider shape
+  * Position
+  * Haptic feedback
+  * Auto birghtness toggle
+* Tiles layout
+  * QS tiles shape
+* Footer
+  * Data usage toggle
+
+Lock Screen
+----------
+* Clock
+  * Clock font style
+* Interface
+  * Carrier name toggle
+  * Battery info toggle
+  * Smartspace
+* Weather
+  * Weather settings
+  * Weather update toggle
+  * Current location toggle
+  * Current condition toggle
+  * Wind info toggle
+  * Humidity info toggle
+* Gestures
+  * Tap to sleep toggle
+  * UDFPS icon picker
+  * UDFPS custom animation
+  * Screen off UDFPS toggle
+  * Fingerprint authentication vibration toggle
+  * Fingerprint error vibration toggle
+  * Ripple effect
+* Misc
+  * Allow accessing power menu on secure lockscreen
+
+Buttons
+----------
+* Extras
+  * Click to partial screenshot toggle
+* Power button
+  * Actions
+    * Screenshot toggle
+    * On-The-Go mode toggle
+    * Airplane toggle
+    * Users toggle
+    * Lockdown toggle
+    * Emergency toggle
+    * Device controls toggle
+  * Advanced reboot options
+    * Advanced restart toggle
+    * Secured lockscreen toggle
+  * End call with power button
+  * Long press power button for torch
+  * Automatically turn torch off
+* Volume buttons
+  * Wake device
+  * Answer call
+  * Control playback with volume buttons
+  * Keyboard cursor control with volume buttons
+  * Reorient volume keys on rotation change
+
+User Interface
+----------
+* Ambient display
+  * Wake screen for notifications
+  * Always show time and info (AOD)
+  * Display schedule
+  * Always show when charging
+  * Music ticker
+  * Edge light
+  * Tilt
+  * Pickup
+  * Hand wave
+  * Pocket 
+  * Wake up
+  * Vibrate
+* Charging animation
+* Full screen apps
+* Screen off animation
+* Monet settings
+  * Theme styles
+  * Color source
+  * Accent color
+  * Backgronud color
+  * Luminance
+  * Chroma factor
+  * Whole palette
+  * Tint backgronud
+* Navbar styles 
+* Font styles
+* Icon pack styles
+* Signal icon style
+* WiFi icon style
+* Icon shape
+* Floating rotation button
+
+Notifications
+----------
+* Alert slider notifications (device specific)
+* Noisy notifications toggle
+* Force stop button toggle
+* Show clipboard overlay toggle
+* Heads up
+  * Heads up toggle
+  * Compact heads-up toggle
+  * Less boring toggle
+  * Timeout interval customization
+* Flashlight
+  * Blink flashlight on incoming call toggle
+  * Ignore DND
+  * Custom blink rate
+
+Sound
+----------
+* Pulse
+* Volume steps customization
+* Screenshot sound
+* Adaptive playback
+* Volume panel
+  * Volume panel on left toggle
+  * Volume panel timeout
+  * volume panel haptics
+* In-call vibration options
+  * Vibrate on connect
+  * Vibrate on call waiting
+  * Vibrate on disconnect
+
+Misc
+----------
+* Game space
+* Keybox attestation override
+* Unlock higher FPS in game toggle
+* Unlimited Google photos toggle
+* Netflix spoof
+* Allow app downgrade toggle
+* Sidebar
+* Three finger swipe action
+* Sensor block per-package
+  * Sensor block toggle
+  * Sensor blok app list
+* Pocket detection - prevents device interaction when inside pocket
+
+About crDroid
+----------
+* Current changelog
+* Official website
+* Translations
+* Share crDroid
+* Support us
+* Github
+* crDroid Community on Telegram
+* Telegram Updates channel
+* Sponsors
+* Updates (directly via OTA)
