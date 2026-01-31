@@ -1,7 +1,7 @@
 ![alt text][logo]
 
   [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 02 January, 2026 in the crDroid Android source.
+* Below features are as of 31 January, 2026 in the crDroid Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 
 Translations
@@ -53,7 +53,6 @@ Quick Settings
 * Miscellaneous
   * Header image
   * QS on lock screen access toggle
-  * Bluetooth tile dialog toggle
 * Brightness slider
   * When to show
   * Brightness slider shape
@@ -149,7 +148,6 @@ User Interface
   * Chroma factor
   * Whole palette
   * Tint backgronud
-* Navbar styles 
 * Font styles
 * Icon shape
 
